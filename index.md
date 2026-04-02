@@ -7,9 +7,9 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 
 <h1 class="site-title">CHINESE POSTPUNK ANTHOLOGY</h1>
 
-<div class="intro">
+<p class="intro">
 Notes on Chinese indie rock, local scenes, and the conditions that shape them.
-</div>
+</p>
 
 <ul class="zine-list">
   {% for post in site.posts %}
