@@ -18,7 +18,7 @@ h1, h2 {
 
 h1 site-title {
   margin-bottom: 0.1em;
-  
+  border-bottom: none;
 }
 
 
@@ -100,4 +100,21 @@ a:hover {
   text-decoration: none;
   border-bottom: 1px solid #000;
   margin-left: -10px;
+}
+
+
+.site-footer {
+  margin-top: 80px;
+  margin-bottom: 40px;
+  font-size: 0.8rem;
+  opacity: 0.5;
+}
+
+.site-footer a {
+  border-bottom: 1px solid #000;
+}
+
+.site-footer a:hover {
+  background: #000;
+  color: #fff;
 }
