@@ -15,4 +15,19 @@ title: {{ page.title }}
     {{ content }}
   </div>
 </article>
+<div class="post-nav">
+  {% if page.previous.url %}
+    <a class="prev" href="{{ page.previous.url | relative_url }}">
+      ← {{ page.previous.title }}
+    </a>
+  {% endif %}
+  
+  <a href="{{ '/' | relative_url }}">Home</a>
+  
+  {% if page.next.url %}
+    <a class="next" href="{{ page.next.url | relative_url }}">
+      {{ page.next.title }} →
+    </a>
+  {% endif %}
+</div>
   </div>
