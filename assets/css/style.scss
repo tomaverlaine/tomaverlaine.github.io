@@ -19,6 +19,9 @@ body {
   letter-spacing: 0.04em;
   margin-bottom: 0.3em;
 }
+h1, .post-title {
+  letter-spacing: 0.04em !important;
+}
 
 /* 日付 */
 .post-date {
