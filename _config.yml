@@ -3,3 +3,8 @@ theme: minima
 title: "Chinese Postpunk Anthology"
 author: "Toma Verlaine"
 description: "Notes on Chinese indie rock and post-punk scenes"
+plugins:
+  - jekyll-feed
+
+feed:
+  excerpt_only: true
