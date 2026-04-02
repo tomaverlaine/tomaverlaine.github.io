@@ -5,6 +5,8 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 
 <div class="zine">
 
+<h1 class="site-title">CHINESE POSTPUNK ANTHOLOGY</h1>
+
 <p class="intro">
 Notes on Chinese indie rock, local scenes, and the conditions that shape them.
 </p>
@@ -18,5 +20,10 @@ Notes on Chinese indie rock, local scenes, and the conditions that shape them.
   </li>
   {% endfor %}
 </ul>
+
+<!-- 控えめな作者クレジット -->
+<footer class="site-author">
+  &copy; Toma Verlaine
+</footer>
 
 </div>
