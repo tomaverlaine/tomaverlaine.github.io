@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+body {
+  max-width: 640px;
+  margin-left: 12%;
+  margin-right: auto;
+  line-height: 1.9;
+  letter-spacing: 0.02em;
+}
+
+h1, h2 {
+  font-weight: normal;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  margin-left: -10px;
+}
+
+p {
+  margin-bottom: 1.8em;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+}
+
+a:hover {
+  background: #000;
+  color: #fff;
+}
