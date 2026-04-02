@@ -5,7 +5,7 @@
 
 /* 全体 */
 body {
-  max-width: 640px;
+  max-width: 680px;
   margin-left: 12%;
   margin-right: auto;
   line-height: 1.9;
@@ -14,11 +14,11 @@ body {
 
 h1, h2 {
   font-weight: normal;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.05em !important;
 }
 
 h2 {
-  margin-left: -10px;
+  
 }
 
 
@@ -28,6 +28,7 @@ h2 {
   font-weight: normal;
   letter-spacing: 0.04em;
   margin-bottom: 0.3em;
+  margin-left: -10px;
 }
 
 /* 日付 */
@@ -45,7 +46,7 @@ h2 {
 /* 見出し */
 .post-content h2 {
   font-weight: normal;
-  margin-top: 2.5em;
+  margin-top: 2.0em;
   margin-left: -8px;
 }
 
@@ -65,7 +66,7 @@ a:hover {
 }
 
 /* イントロ */
-.intro {
+.intro p{
   max-width: 640px;
   margin-bottom: 60px;
   font-size: 0.95rem;
@@ -96,4 +97,5 @@ a:hover {
   font-size: 1.1rem;
   text-decoration: none;
   border-bottom: 1px solid #000;
+  margin-left: -10px;
 }
