@@ -18,5 +18,3 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 </ul>
 
 </div>
-
-    {% include footer.html %}  
