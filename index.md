@@ -22,3 +22,5 @@ Notes on Chinese indie rock, local scenes, and the conditions that shape them.
 </ul>
 
 </div>
+
+    {% include footer.html %}  
