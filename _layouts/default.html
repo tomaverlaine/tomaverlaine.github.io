@@ -1,29 +1,32 @@
----
-layout: default
-title: "CHINESE POSTPUNK ANTHOLOGY"
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description }}">
+    
+    <link rel="stylesheet" href="{{ '/assets/css/minima.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
 
-<div class="zine">
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+      </div>
+    </header>
 
-<h1 class="site-title">CHINESE POSTPUNK ANTHOLOGY</h1>
+    <main class="site-main wrapper">
+      {{ content }}
+    </main>
 
-<p class="intro">
-Notes on Chinese indie rock, local scenes, and the conditions that shape them.
-</p>
-
-<ul class="zine-list">
-  {% for post in site.posts %}
-  <li>
-    <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <p class="excerpt">{{ post.excerpt }}</p>
-  </li>
-  {% endfor %}
-</ul>
-
-<!-- 控えめな作者クレジット -->
-<footer class="site-author">
-  &copy; Toma Verlaine
-</footer>
-
-</div>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p class="site-author">&copy; {{ site.author }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
