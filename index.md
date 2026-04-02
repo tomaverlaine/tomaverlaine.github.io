@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
 
 <div class="zine">
