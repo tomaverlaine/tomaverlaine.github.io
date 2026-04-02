@@ -3,9 +3,9 @@ layout: home
 title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
 
+
 <div class="zine">
 
-<h1 class="site-title">CHINESE POSTPUNK ANTHOLOGY</h1>
 
 <ul class="zine-list">
   {% for post in site.posts %}
