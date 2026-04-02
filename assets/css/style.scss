@@ -12,15 +12,18 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* タイトル */
-.post-title {
-  font-size: 2.2rem;
+h1 {
+  font-size: 2.2rem !important;
   font-weight: normal;
   letter-spacing: 0.04em;
   margin-bottom: 0.3em;
 }
-h1, .post-title {
-  letter-spacing: 0.04em !important;
+/* タイトル */
+.post-title {
+  font-size: 2.0rem;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.3em;
 }
 
 /* 日付 */
@@ -51,10 +54,4 @@ a {
 a:hover {
   background: #000;
   color: #fff;
-}
-.site-author {
-  font-size: 0.75rem;       
-  color: #666;              
-  text-align: center;       
-  margin: 2rem 0 1rem 0;    
 }
