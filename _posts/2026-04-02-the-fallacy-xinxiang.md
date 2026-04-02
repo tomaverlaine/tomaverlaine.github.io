@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Kids Who Fell for Rock and Never Left: The “Rock City” and The Fallacy"
+title: The Kids Who Fell for Rock and Never Left: The “Rock City” and The Fallacy
 tags: [China Indie, Post-Punk, Xinxiang, The Fallacy]
 ---
 
