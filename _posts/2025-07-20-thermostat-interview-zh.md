@@ -7,6 +7,7 @@ excerpt: There's a lot of emotion on the Daria EP, and overall it's a mood chang
 categories: [interview, music, china]
 tags: [thermostat, indie pop, dream pop, shoegaze, beijing, lo-fi]
 lang: zh
+ref: thermostat
 ---
 
 ## 序言
