@@ -7,6 +7,7 @@ author: Toma Verlaine
 excerpt: There's a lot of emotion on the Daria EP, and overall it's a mood change from down to positive
 categories: [interview, music, china]
 tags: [thermostat, indie pop, dream pop, shoegaze, beijing, lo-fi]
+lang: en
 ---
 
 > Originally published in Japanese on [note.com](https://note.com/tomaverlaine/n/n6e83c8e84f1a)  
