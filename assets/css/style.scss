@@ -10,6 +10,12 @@ body {
   line-height: 1.9;
   letter-spacing: 0.02em;
 }
+.page-content {
+  max-width: 640px;
+  margin-left: 12%;
+  margin-right: auto;
+  display: block !important;
+}
 
 h1, h2 {
   font-weight: normal;
