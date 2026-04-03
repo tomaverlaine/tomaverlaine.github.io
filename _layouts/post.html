@@ -32,27 +32,18 @@ title: {{ page.title }}
 </article>
 
 <div class="post-nav">
-  {%- comment -%}
-  前後ナビ：英語記事のみ
-  {%- endcomment -%}
-  {% assign en_posts = site.posts | where: "lang", "en" %}
-  {% assign current_index = en_posts | index_of: page %}
-
-  {% assign prev_index = current_index | minus: 1 %}
-  {% assign next_index = current_index | plus: 1 %}
-
-  {% if prev_index >= 0 %}
-    <a class="prev" href="{{ en_posts[prev_index].url | relative_url }}">
-       {{ en_posts[prev_index].title }}
-    </a>
+  {% if page.previous and page.lang == "en" %}
+    <a class="prev" href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+  {% else %}
+    <span class="prev"></span>
   {% endif %}
 
- | <a href="{{ '/' | relative_url }}">< index </a> | 
+  <a class="index" href="{{ '/' | relative_url }}">Index</a>
 
-  {% if next_index < en_posts.size %}
-    <a class="next" href="{{ en_posts[next_index].url | relative_url }}">
-      {{ en_posts[next_index].title }} 
-    </a>
+  {% if page.next and page.lang == "en" %}
+    <a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+  {% else %}
+    <span class="next"></span>
   {% endif %}
 </div>
 </div>

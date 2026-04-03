@@ -98,12 +98,36 @@ h2 {
   margin-top: 1em;
   margin-left: -8px;
 } 
-h3 {
-  font-size: 1.4em;
-  font-weight: normal;
-  margin-top: 1em;
-  margin-left: -8px;
+
+.post-content h2 {
+  font-size: 1.5em; /* 本文より大きめ */
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+  font-weight: 400; /* お好みで調整 */
 }
+.post-content h3 {
+  font-size: 1.5em; /* 本文より大きめ */
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+  font-weight: 400; /* お好みで調整 */
+}
+
+.post-nav {
+  display: flex;
+  justify-content: space-between; /* 左右に広げる */
+  align-items: center;
+  margin-top: 2em;
+  font-size: 0.95em;
+  gap: 1em; /* 要素間の隙間 */
+}
+
+.post-nav .prev,
+.post-nav .next,
+.post-nav .index {
+  flex: 1;            /* 均等にスペースを割り当てる */
+  text-align: center; /* 中央揃え */
+}
+
 
 /* リンク */
 a {
