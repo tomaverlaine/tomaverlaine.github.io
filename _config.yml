@@ -8,7 +8,8 @@ plugins:
 
 feed:
   excerpt_only: true
-# 多言語をサポートする場合のデフォルト値
+languages: [en, zh, ja]
+default_lang: en
 defaults:
   -
     scope:
