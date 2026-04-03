@@ -1,5 +1,3 @@
-theme: minima
-
 title: "Chinese Postpunk Anthology"
 author: "Toma Verlaine"
 description: "Chinese Postpunk Anthology is a collection of notes,
@@ -10,3 +8,12 @@ plugins:
 
 feed:
   excerpt_only: true
+# 多言語をサポートする場合のデフォルト値
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      lang: "en"      # デフォルトは英語
+      ref: ""         # 単言語投稿は空 
