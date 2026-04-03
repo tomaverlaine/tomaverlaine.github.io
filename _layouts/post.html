@@ -2,19 +2,22 @@
 layout: default
 title: {{ page.title }}
 ---
+
 <div class="zine">
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-    {%- comment -%} 言語切替スイッチ {%- endcomment -%}
+    {% comment %}
+      言語切替スイッチ：ref が設定されている場合のみ
+    {% endcomment %}
     {% if page.ref %}
       {% assign translations = site.posts | where: "ref", page.ref %}
       {% if translations.size > 1 %}
         <div class="lang-switch">
           {% for post in translations %}
-            {% if post.url == page.url %}
+            {% if post.lang == page.lang %}
               <strong>{{ post.lang }}</strong>
             {% else %}
               <a href="{{ post.url }}">{{ post.lang }}</a>
@@ -33,30 +36,26 @@ title: {{ page.title }}
   </div>
 </article>
 
+{% comment %}
+  前後ナビゲーション：同じ言語の記事のみ
+{% endcomment %}
+{% assign same_lang_posts = site.posts | where:"lang", page.lang %}
+{% assign index = same_lang_posts | index_of: page %}
+{% assign prev_post = same_lang_posts[index | minus: 1] %}
+{% assign next_post = same_lang_posts[index | plus: 1] %}
+
 <div class="post-nav">
-  {%- comment -%} 同じ言語の投稿で previous/next を設定 {%- endcomment -%}
-  {% assign lang_posts = site.posts | where: "lang", page.lang | sort: "date" %}
-
-  {% for post in lang_posts %}
-    {% if post.url == page.url %}
-      {% assign idx = forloop.index0 %}
-    {% endif %}
-  {% endfor %}
-
-  {% assign prev_post = lang_posts[idx | minus: 1] %}
-  {% assign next_post = lang_posts[idx | plus: 1] %}
-
   {% if prev_post %}
     <a class="prev" href="{{ prev_post.url | relative_url }}">
-      ← {{ prev_post.title }}
+       {{ prev_post.title }}
     </a>
   {% endif %}
-
-  <a href="{{ '/' | relative_url }}"> index </a> 
-
+  
+  <a href="{{ '/' | relative_url }}">< index ></a>
+  
   {% if next_post %}
     <a class="next" href="{{ next_post.url | relative_url }}">
-      {{ next_post.title }} →
+      {{ next_post.title }} 
     </a>
   {% endif %}
 </div>
