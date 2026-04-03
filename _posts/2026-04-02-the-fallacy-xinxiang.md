@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "The Kids Who Fell for Rock and Never Left: The “Rock City” and The Fallacy"
+title: "The Kids Who Fell for Rock and Never Left"
 tags:
   - China Indie
   - Post-Punk

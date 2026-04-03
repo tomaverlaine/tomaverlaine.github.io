@@ -132,7 +132,7 @@ img {
 
 /* 各記事 */
 .zine-list li {
-  margin-bottom: 24px;
+  margin-bottom: 1.2em;
 }
 
 /* 日付 */
@@ -148,6 +148,7 @@ img {
   text-decoration: none;
   border-bottom: 1px solid #000;
   margin-left: -10px;
+  display: block;
 }
 
 /* フッター */
