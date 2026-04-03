@@ -17,6 +17,11 @@ permalink: /about/
 
 <p>Texts are meant to be read discontinuously.</p>
 
-<p><a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify playlist</a></p>
+<p>
+  <a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify</a> — 
+  <a href="https://note.com/tomaverlaine">Note</a> — 
+  <a href="https://tomaverlaine.substack.com">Substack</a> — 
+  <a href="https://x.com/tomaverlaine">@tomaverlaine</a>
+</p>
 </div>
 </div>
