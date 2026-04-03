@@ -28,8 +28,6 @@ This interview was conducted via email, with the questions in English and the an
 
 本专访通过电子邮件进行，用英语提问，用中文回答。为了方便读者，准备了英汉双语版本。翻译过程中使用了几种机器翻译服务。
 
----
-
 ## The Story Behind Thermostat / 恒温人员背后的故事
 
 **Toma: Thermostat is essentially your personal project. Meanwhile, you perform live as a duo, and I noticed a musician called Sun Xiao credited in the *Daria*'s liner notes. Could you tell me a bit more about how you create music now.**
@@ -52,8 +50,6 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 我认为我喜爱的音乐风格不需要很多人合作呈现，我也并不是一个很好的乐队领袖，索性做一个偶尔合作的双人项目会有更高的自由度。
 
----
-
 **Toma: What inspired you to begin this project? Since 2020 was a time of quarantine due to COVID-19, I want to know how that period had an impact on your decision to start the project.**
 
 **是什么启发你开始这个计划？2020年是因为COVID-19而隔离的时期，我想知道那段时间是否影响了你开始这个计划的决定。**
@@ -61,8 +57,6 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 **Roubing:** I started this project because I felt capable of creating music and wasn't content playing a particular instrument as others demanded. Perhaps being stuck at home for a long time during the COVID-19 pandemic created a kind of mood. The music that comforted me during that period helped me discover a style I prefer.
 
 开始这个计划只是因为觉得自己有能力创作音乐，我并不满足于按照其他人要求的方式演奏某一样乐器。新冠病毒疫情期间长时间的居家生活也许酝酿出了某种情绪。在那段时间里安抚我的音乐促使我找到了自己喜欢的风格。
-
----
 
 **Toma: Could you give me an overview of how the project has developed over time? I'm interested to know how your life and musical style have evolved.**
 
@@ -72,8 +66,6 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 2020年到现在大概五年的时间，Thermostat这个项目其实没有太多的变化。我个人从学生的身份变成音乐行业的一员，也许是因为将爱好变成了工作，生活被迫充斥着音乐，我的创作欲望和频率很明显减少了。但我在有意寻找新的风格变化方向，不再只是希望模仿谁，而是想要一种更加安静的状态。
 
----
-
 **Toma: What sort of music did you grow up listening to? Even beyond musical influences on your own work.**
 
 **你小时候听什么样的音乐长大？即使是对你的作品没有直接影响的音乐也行。**
@@ -82,8 +74,6 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 小时候最先接触的音乐是Michael Jackson。但当时肤浅的我并不关注音乐本身，而是MJ的酷炫外形。高中时期真正开始学习吉他，影响我的音乐是中国的独立民谣，还有一些欧美乐队，我从Coldplay练习到The Raveonettes和Mew。
 
----
-
 **Toma: You're currently based in Beijing. Were you born there or did you move from somewhere else?**
 
 **你目前定居在北京。 你是出生在那里，还是从别的地方移居过来的？**
@@ -91,8 +81,6 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 **Roubing:** Yes, I've lived in Beijing since I was a kid, and I've never left the city for more than a month. I spent my entire primary, secondary and university years in this city, and I still live with my parents, which I'm a bit self-conscious about.
 
 是的，我从小都在北京生活，最多离开北京不超过一个月的时间。我的小学、中学和大学都在这座城市，目前我还和父母住在一起（我对此感到有些自卑）。
-
----
 
 ## Thermostat's Musical Style / 恒温人员的音乐风格
 
@@ -108,8 +96,6 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 我认为在一个足够大的城市里，你总能找到自己喜欢的文化角落。当然不少中国南方的乐队风格更和我契合，我也很好奇这种风格上的群聚性和地域性特征。也许DIY精神和空气湿润、夏季漫长的地方更能诞生出有趣的dream pop和shoegaze音乐。
 
----
-
 **Toma: On Bandcamp, your music is tagged as dream pop and shoegaze. It feels quite distinct from the typical sound of those genres. It reminds me a little of some southern musicians, such as [The Cheers Cheers](https://farfardisc.bandcamp.com/album/--11) or [Ecke Wu](https://eckewu.bandcamp.com/album/performance). How would you personally describe your musical style or genre?**
 
 **在Bandcamp上，你的音乐被标签为dream pop和shoegaze，但与这些类型的典型声音有些不同，让我想起了南方的一音乐人，比如The Cheers Cheers或Ecke。你个人会如何描述你的音乐风格或类型？**
@@ -117,8 +103,6 @@ I think in a city large enough, you can always find your favorite cultural niche
 **Roubing:** To be honest, I chose those tags to make it easier for listeners to understand. It's difficult to label music, and the style of Thermostat's work is ever-changing. If I had to summarise my current style, I'd want it to be something between ambient, dream pop, and lo-fi.
 
 老实说我当时那样去选择标签也许是为了方便收听的人去理解。但一方面音乐确实很难标签化，另一方面Thermostat的作品风格也在不断变化。如果真的让我去概括自己目前的风格，我会希望是某一种介于Ambient和Dream Pop，lofi之间的东西。
-
----
 
 **Toma: The use of drum machines and looping rhythms brings to mind old video game and feels like a conscious departure from rock's dynamism, creating more introspective and personal vibe. It seems to share something with German progressive rock and the psychedelic roots of dream pop and shoegaze.**
 
@@ -128,8 +112,6 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 是的，除了indie pop、dream pop等等音乐类型，我也经常会听一些好听的鼓机音乐，其中会有非洲律动，还有不少就是你提到的krautrock等类型的音乐。重复的、机械的节奏比较令我着迷。
 
----
-
 **Toma: Listening to Thermostat, sometimes reminded me of Brian Eno. Even though I only know *Another Green World*, I've read that he's considered a pioneer of ambient music.**
 
 **听Thermostat时，我经常会想到Brian Eno。虽然我只知道《Another Green World》，但我读到过他被认为是ambient音乐的先驱。**
@@ -137,8 +119,6 @@ I think in a city large enough, you can always find your favorite cultural niche
 **Roubing:** Thank you for comparing me to a master of movie scores! Haha! But my knowledge of Brian Eno is also limited to some Hollywood movie soundtracks. For ambient music, I'd personally favor the aforementioned me:mo and Gaussian Curve from Europe. They are more of an influence on me.
 
 非常感谢你把我跟电影配乐的大师联系在一起哈哈！但我对Brian Eno的了解也仅限于一些好莱坞电影的原声带。如果提到ambient音乐，我个人会比较倾向于前文提到的me:mo和来自欧洲的Gaussian Curve，他们对我的影响更大一些。
-
----
 
 ## About *Daria* / 关于《Daria》
 
@@ -154,8 +134,6 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 
 我后来将它挂在我的tote bag上面作为装饰。在一次下班回家的地铁上因为非常拥挤，它被挤掉了并且再也找不到了，我觉得非常可惜和懊悔，然后就决定在接下来的EP中把它照着原样画下来。
 
----
-
 **Toma: I didn't sense the kind of sentimentality typical of emo, nor a straightforward sense of nostalgia. Instead, I felt a certain distance, something quieter and more introspective. What kind of feelings or memories did you hope to convey with this EP?**
 
 **我没有感受到emo音乐典型的感伤，也不是直接的怀旧感。相反，我感到某种距离感，更安静、更内省的东西。你希望通过这张EP传达什么样的感情或记忆？**
@@ -164,8 +142,6 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 
 《Daria》EP中的情绪很丰富，整体是一种从低落到积极的情绪变化。第一首歌基本上是我未来更多尝试的环境音乐风格，中间两首作品回归了之前多次尝试的噪音流行、合成器流行和瞪鞋元素。末尾《Lily's Not My Fan》其实是中文的谐音，原意是一家中国广西省的早餐店"哩哩糯米饭（li li nuo mi fan）"，我也用到了一些热带音乐的编曲思路，希望可以做得清爽一些。
 
----
-
 **Toma: I noticed each track includes a copyright statement that forbids covers, which is quite unusual. Is this part of an intentional artistic policy? Covers and cover videos are often seen as ways to spread an artist's popularity. Does this reflect a more cautious attitude toward public exposure?**
 
 **我注意到每首歌都有禁止翻唱的版权声明，这很不寻常。 这是否是你们有意为之的艺术政策的一部分？ 翻唱和翻唱视频通常被视为传播艺术家知名度的途径。 这是否反映了一种对公开曝光更为谨慎的态度？**
@@ -173,8 +149,6 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 **Roubing:** No, no, it's just a standard copyright statement from my distributor, perhaps because music piracy is a bigger issue in China. If it feels harsh to overseas listeners, I'm sorry!
 
 不不，这只是我的发行商惯常的版权声明，也许在中国盗用歌曲的现象比较严重。如果它让海外的听众感到生硬，我很抱歉！
-
----
 
 ## Future Prospects / 今后的方针
 
@@ -193,8 +167,6 @@ Also, I'll be finishing the physical version of Daria this year as soon as possi
 我是一个不太享受现场表演的人，不过一些规模较小的本地showcase还是会根据我们的时间安排。敬请期待！
 
 另外，今年我会尽快完成《Daria》的实体专辑制作！
-
----
 
 **Toma: By the way, I was pleased to see Thermostat featured on chainhana's *Such a World*, alongside several other indie musicians. How did that collaboration come about? If there's a story behind it, or anything interesting from the process, you'd be very welcome to share it!**
 
