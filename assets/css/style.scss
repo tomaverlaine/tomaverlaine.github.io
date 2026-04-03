@@ -17,13 +17,6 @@ body {
   margin-right: auto;
 }
 
-h1, h2 {
-  font-weight: normal;
-  letter-spacing: 0.05em !important;
-  margin-bottom: 0.1em;
-  border-bottom: none;
-}
-
 .site-header {
   all: unset;
   display: block !important;
@@ -85,7 +78,7 @@ h1, h2 {
 /* 見出し */
 .post-content h2 {
   font-weight: normal;
-  margin-top: 2.0em;
+  margin-top: 1.5em;
   margin-left: -8px;
 }
 
