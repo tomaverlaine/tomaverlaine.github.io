@@ -35,18 +35,26 @@ title: {{ page.title }}
 </article>
 
 <div class="post-nav">
-  {% if page.previous and page.lang == "en" %}
-    <a class="prev" href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
-  {% else %}
-    <span class="prev"></span>
+  {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
+  {% assign index = same_lang_posts | index_of: page %}
+  
+  {% assign prev_index = index | minus: 1 %}
+  {% assign next_index = index | plus: 1 %}
+
+  {% if prev_index >= 0 %}
+    {% assign prev_post = same_lang_posts[prev_index] %}
+    <a class="prev" href="{{ prev_post.url | relative_url }}">
+      {{ prev_post.title }}
+    </a>
   {% endif %}
 
-  <a class="index" href="{{ '/' | relative_url }}">Index</a>
+  <a href="{{ '/' | relative_url }}">index</a>
 
-  {% if page.next and page.lang == "en" %}
-    <a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
-  {% else %}
-    <span class="next"></span>
+  {% if next_index < same_lang_posts.size %}
+    {% assign next_post = same_lang_posts[next_index] %}
+    <a class="next" href="{{ next_post.url | relative_url }}">
+      {{ next_post.title }}
+    </a>
   {% endif %}
 </div>
 </div>
