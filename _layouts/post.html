@@ -8,13 +8,13 @@ title: {{ page.title }}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
 
+    {%- comment -%} 言語切替スイッチ {%- endcomment -%}
     {% if page.ref %}
       {% assign translations = site.posts | where: "ref", page.ref %}
-
       {% if translations.size > 1 %}
         <div class="lang-switch">
           {% for post in translations %}
-            {% if post.lang == page.lang %}
+            {% if post.url == page.url %}
               <strong>{{ post.lang }}</strong>
             {% else %}
               <a href="{{ post.url }}">{{ post.lang }}</a>
@@ -23,7 +23,6 @@ title: {{ page.title }}
         </div>
       {% endif %}
     {% endif %}
-
   </header>
 
   <div class="post-content">
@@ -35,17 +34,29 @@ title: {{ page.title }}
 </article>
 
 <div class="post-nav">
-  {% if page.previous %}
-    <a class="prev" href="{{ page.previous.url | relative_url }}">
-      {{ page.previous.title }}
+  {%- comment -%} 同じ言語の投稿で previous/next を設定 {%- endcomment -%}
+  {% assign lang_posts = site.posts | where: "lang", page.lang | sort: "date" %}
+
+  {% for post in lang_posts %}
+    {% if post.url == page.url %}
+      {% assign idx = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign prev_post = lang_posts[idx | minus: 1] %}
+  {% assign next_post = lang_posts[idx | plus: 1] %}
+
+  {% if prev_post %}
+    <a class="prev" href="{{ prev_post.url | relative_url }}">
+      ← {{ prev_post.title }}
     </a>
   {% endif %}
-  
-  <a href="{{ '/' | relative_url }}">< index ></a>
-  
-  {% if page.next %}
-    <a class="next" href="{{ page.next.url | relative_url }}">
-      {{ page.next.title }} 
+
+  <a href="{{ '/' | relative_url }}"> index </a> 
+
+  {% if next_post %}
+    <a class="next" href="{{ next_post.url | relative_url }}">
+      {{ next_post.title }} →
     </a>
   {% endif %}
 </div>
