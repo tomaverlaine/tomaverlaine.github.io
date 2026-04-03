@@ -10,18 +10,21 @@ title: {{ page.title }}
   <h2 class="post-subtitle">{{ page.subtitle }}</h2>
   <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
   
-  {% assign translations = site.posts | where: "ref", page.ref %}
-  {% if translations.size > 1 %}
-    <div class="lang-switch">
-      {% for post in translations %}
-        {% if post.lang == page.lang %}
-          <strong>{{ post.lang }}</strong>
-        {% else %}
-          /<a href="{{ post.url }}">{{ post.lang }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  {% endif %}
+  {% if page.ref and page.ref != "" %}
+      {% assign translations = site.posts | where: "ref", page.ref %}
+      {% if translations.size > 1 %}
+        <div class="lang-switch">
+          {% for post in translations %}
+            {% if post.lang == page.lang %}
+              <strong>{{ post.lang }}</strong>
+            {% else %}
+              <a href="{{ post.url }}">{{ post.lang }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endif %}
+
 </header>
   <div class="post-content">
     {{ content }}
