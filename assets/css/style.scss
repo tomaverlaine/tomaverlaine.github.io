@@ -12,8 +12,9 @@
 }
 
 /* 言語別 */
-body.lang-en { font-family: Inter, system-ui, sans-serif; }
+body.lang-en { font-family: Inter, 'Noto Sans SC', system-ui, sans-serif; }
 body.lang-zh { font-family: 'Noto Sans SC', Inter, sans-serif; }
+body.lang-ja { font-family: Inter, system-ui,'Noto Sans SC',  sans-serif; }
 
 /* 全体 */
 body {
@@ -37,6 +38,7 @@ body {
   display: block !important;
   margin-top: 0px;
   margin-bottom: 3em;
+  font-family: Inter; 
 }
 
 .site-title {
@@ -204,6 +206,7 @@ img {
   margin-bottom: 40px;
   font-size: 0.8rem;
   opacity: 0.5;
+  font-family: Inter;  
 }
 
 .site-footer a {
