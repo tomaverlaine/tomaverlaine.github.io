@@ -32,7 +32,7 @@ This interview was conducted via email, with the questions in English and the an
 
 ## The Story Behind Thermostat / 恒温人员背后的故事
 
-**Toma:** Thermostat is essentially your personal project. Meanwhile, you perform live as a duo, and I noticed a musician called Sun Xiao credited in the *Daria*'s liner notes. Could you tell me a bit more about how you create music now.
+**Toma: Thermostat is essentially your personal project. Meanwhile, you perform live as a duo, and I noticed a musician called Sun Xiao credited in the *Daria*'s liner notes. Could you tell me a bit more about how you create music now.**
 
 **Thermostat基本上是你的个人计划，但你以双人组合的形式进行现场演出，在《Daria》中我注意到一个名叫Sun Xiao的人被提及。你能多讲一点当前的创作模式吗？**
 
@@ -54,7 +54,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 ---
 
-**Toma:** What inspired you to begin this project? Since 2020 was a time of quarantine due to COVID-19, I want to know how that period had an impact on your decision to start the project.
+**Toma: What inspired you to begin this project? Since 2020 was a time of quarantine due to COVID-19, I want to know how that period had an impact on your decision to start the project.**
 
 **是什么启发你开始这个计划？2020年是因为COVID-19而隔离的时期，我想知道那段时间是否影响了你开始这个计划的决定。**
 
@@ -64,7 +64,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 ---
 
-**Toma:** Could you give me an overview of how the project has developed over time? I'm interested to know how your life and musical style have evolved.
+**Toma: Could you give me an overview of how the project has developed over time? I'm interested to know how your life and musical style have evolved.**
 
 **让我了解一下这个计划的发展概况？我很想知道你的生活和音乐风格是如何演变的。**
 
@@ -74,7 +74,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 ---
 
-**Toma:** What sort of music did you grow up listening to? Even beyond musical influences on your own work.
+**Toma: What sort of music did you grow up listening to? Even beyond musical influences on your own work.**
 
 **你小时候听什么样的音乐长大？即使是对你的作品没有直接影响的音乐也行。**
 
@@ -84,7 +84,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 ---
 
-**Toma:** You're currently based in Beijing. Were you born there or did you move from somewhere else?
+**Toma: You're currently based in Beijing. Were you born there or did you move from somewhere else?**
 
 **你目前定居在北京。 你是出生在那里，还是从别的地方移居过来的？**
 
@@ -96,7 +96,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 ## Thermostat's Musical Style / 恒温人员的音乐风格
 
-**Toma:** When I first listened to Thermostat, I think of the independent music in southern China. So I was a little surprised to find out you're based in Beijing. To outsiders like me, Beijing's indie scene is often associated with intense rock and punk, but Thermostat's sound feels distinct. How do you see your relationship with the local independent scene?
+**Toma: When I first listened to Thermostat, I think of the independent music in southern China. So I was a little surprised to find out you're based in Beijing. To outsiders like me, Beijing's indie scene is often associated with intense rock and punk, but Thermostat's sound feels distinct. How do you see your relationship with the local independent scene?**
 
 **第一次听Thermostat时，我联想到了中国南方的独立音乐，所以知道你身在北京时有点惊讶。至少对我这样的局外人来说，北京的音乐场景给人激烈和喧闹的印象。你如何看待自己与本地独立音乐场景的关系？**
 
@@ -110,7 +110,7 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 ---
 
-**Toma:** On Bandcamp, your music is tagged as dream pop and shoegaze. It feels quite distinct from the typical sound of those genres. It reminds me a little of some southern musicians, such as [The Cheers Cheers](https://farfardisc.bandcamp.com/album/--11) or [Ecke Wu](https://eckewu.bandcamp.com/album/performance). How would you personally describe your musical style or genre?
+**Toma: On Bandcamp, your music is tagged as dream pop and shoegaze. It feels quite distinct from the typical sound of those genres. It reminds me a little of some southern musicians, such as [The Cheers Cheers](https://farfardisc.bandcamp.com/album/--11) or [Ecke Wu](https://eckewu.bandcamp.com/album/performance). How would you personally describe your musical style or genre?**
 
 **在Bandcamp上，你的音乐被标签为dream pop和shoegaze，但与这些类型的典型声音有些不同，让我想起了南方的一音乐人，比如The Cheers Cheers或Ecke。你个人会如何描述你的音乐风格或类型？**
 
@@ -120,7 +120,7 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 ---
 
-**Toma:** The use of drum machines and looping rhythms brings to mind old video game and feels like a conscious departure from rock's dynamism, creating more introspective and personal vibe. It seems to share something with German progressive rock and the psychedelic roots of dream pop and shoegaze.
+**Toma: The use of drum machines and looping rhythms brings to mind old video game and feels like a conscious departure from rock's dynamism, creating more introspective and personal vibe. It seems to share something with German progressive rock and the psychedelic roots of dream pop and shoegaze.**
 
 **鼓机和循环节奏的使用让我想起了老式电子游戏音乐。它还感觉像是故意偏离摇滚的传统动感，创造出更内省和个人化的东西。似乎与德国前卫摇滚以及dream pop和shoegaze的迷幻根源有某种共通之处。**
 
@@ -130,7 +130,7 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 ---
 
-**Toma:** Listening to Thermostat, sometimes reminded me of Brian Eno. Even though I only know *Another Green World*, I've read that he's considered a pioneer of ambient music.
+**Toma: Listening to Thermostat, sometimes reminded me of Brian Eno. Even though I only know *Another Green World*, I've read that he's considered a pioneer of ambient music.**
 
 **听Thermostat时，我经常会想到Brian Eno。虽然我只知道《Another Green World》，但我读到过他被认为是ambient音乐的先驱。**
 
@@ -142,7 +142,7 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 ## About *Daria* / 关于《Daria》
 
-**Toma:** The phrase "a lost toy puppy" in the liner notes of *Daria* was especially impressive. Does it symbolize something like a childhood memory of innocence, or perhaps a long-time best friend? If there's a specific story behind the phrase, I'd be very interested to hear it.
+**Toma: The phrase "a lost toy puppy" in the liner notes of *Daria* was especially impressive. Does it symbolize something like a childhood memory of innocence, or perhaps a long-time best friend? If there's a specific story behind the phrase, I'd be very interested to hear it.**
 
 **《Daria》EP内页中的"a lost toy puppy"这句话特别引人注目。它是否象征着童年的纯真回忆，或是多年的好友？如果这句话背后有具体的故事，我很想听听。**
 
@@ -156,7 +156,7 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 
 ---
 
-**Toma:** I didn't sense the kind of sentimentality typical of emo, nor a straightforward sense of nostalgia. Instead, I felt a certain distance, something quieter and more introspective. What kind of feelings or memories did you hope to convey with this EP?
+**Toma: I didn't sense the kind of sentimentality typical of emo, nor a straightforward sense of nostalgia. Instead, I felt a certain distance, something quieter and more introspective. What kind of feelings or memories did you hope to convey with this EP?**
 
 **我没有感受到emo音乐典型的感伤，也不是直接的怀旧感。相反，我感到某种距离感，更安静、更内省的东西。你希望通过这张EP传达什么样的感情或记忆？**
 
@@ -166,7 +166,7 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 
 ---
 
-**Toma:** I noticed each track includes a copyright statement that forbids covers, which is quite unusual. Is this part of an intentional artistic policy? Covers and cover videos are often seen as ways to spread an artist's popularity. Does this reflect a more cautious attitude toward public exposure?
+**Toma: I noticed each track includes a copyright statement that forbids covers, which is quite unusual. Is this part of an intentional artistic policy? Covers and cover videos are often seen as ways to spread an artist's popularity. Does this reflect a more cautious attitude toward public exposure?**
 
 **我注意到每首歌都有禁止翻唱的版权声明，这很不寻常。 这是否是你们有意为之的艺术政策的一部分？ 翻唱和翻唱视频通常被视为传播艺术家知名度的途径。 这是否反映了一种对公开曝光更为谨慎的态度？**
 
@@ -178,7 +178,7 @@ Then I hung it on my tote bag as a decoration. Once on the subway on my way home
 
 ## Future Prospects / 今后的方针
 
-**Toma:** It's been two years since your last full-length album. Do you have any plans or ideas for the next release? If you're working on something, I'd love to hear about its progress. And, Thermostat have any upcoming plans for live shows, tours, or other releases?
+**Toma: It's been two years since your last full-length album. Do you have any plans or ideas for the next release? If you're working on something, I'd love to hear about its progress. And, Thermostat have any upcoming plans for live shows, tours, or other releases?**
 
 **距离你上一张全长专辑已经过去两年了。 对于下一张专辑，你们有什么打算或构想？ 如果你们已经在做什么，我愿意听到进展如何。 Thermostat 是否有即将到来的现场演出或巡演计划、未来的发行计划或其他目标？**
 
@@ -196,7 +196,7 @@ Also, I'll be finishing the physical version of Daria this year as soon as possi
 
 ---
 
-**Toma:** By the way, I was pleased to see Thermostat featured on chainhana's *Such a World*, alongside several other indie musicians. How did that collaboration come about? If there's a story behind it, or anything interesting from the process, you'd be very welcome to share it!
+**Toma: By the way, I was pleased to see Thermostat featured on chainhana's *Such a World*, alongside several other indie musicians. How did that collaboration come about? If there's a story behind it, or anything interesting from the process, you'd be very welcome to share it!**
 
 **顺便说一下，看到Thermostat在chainhana的《Such a World》中与其他独立音乐人一起被收录，我很高兴。这次合作是如何实现的？如果有什么幕后故事或制作过程中有趣的事情，欢迎分享！**
 
