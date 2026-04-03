@@ -4,10 +4,9 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
 <div class="zine">
 <ul class="zine-list">
-  {% for post in site.posts %}
+{% for post in site.posts %}
 * {{ post.date | date: "%Y-%m-%d" }}
-  {% if post.lang == "ja" %}[JP]{% elsif post.lang == "en" %}[EN]{% elsif post.lang == "zh" %}[ZH]{% endif %}
-  [{{ post.title }}]({{ post.url }})
+  [{{ post.title }}{% if post.lang %} — {{ post.lang }}{% endif %}]({{ post.url }})
 
   {{ post.excerpt }}
 {% endfor %}
