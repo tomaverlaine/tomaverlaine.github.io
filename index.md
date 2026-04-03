@@ -7,7 +7,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 {% for post in site.posts %}
   <li>
     <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <a href="{{ post.url }}">{{ post.title }}{% if post.lang %} — {{ post.lang }}{% endif %}</a>
+    <span class="post-title"><a href="{{ post.url }}">{{ post.title }}{% if post.lang %} — {{ post.lang }}{% endif %}</a></span>
     <p class="post-excerpt">{{ post.excerpt }}</p>
   </li>
 {% endfor %}
