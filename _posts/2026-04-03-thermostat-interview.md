@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with the Beijing-Based Indie Pop Project Thermostat"
+title: "Interview with Thermostat"
 subtitle: "専访北京独立流行计划恒温人员Thermostat"
 date: 2025-07-20
 author: Toma Verlaine
