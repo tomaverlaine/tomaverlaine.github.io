@@ -9,18 +9,16 @@ title: {{ page.title }}
     <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
 
     {% assign translations = site.posts | where: "ref", page.ref %}
+{% assign other_langs = translations | where_exp:"post","post.lang != page.lang" %}
 
-    {% if translations.size > 1 %}
-      <div class="lang-switch">
-        {% for post in translations %}
-          {% if post.lang == page.lang %}
-            {{ post.lang }}
-          {% else %}
-            <a href="{{ post.url }}">{{ post.lang }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endif %}
+{% if other_langs.size > 0 %}
+  <div class="lang-switch">
+    <strong>{{ page.lang }}</strong>
+    {% for post in other_langs %}
+      <a href="{{ post.url }}">{{ post.lang }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
 
   </header>
 
