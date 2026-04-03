@@ -12,8 +12,13 @@ title: {{ page.title }}
   <div class="post-content">
     {{ content }}
   </div>
+<div class="post-content">
+    {{ content }}
+    <p class="post-source">
+  <a href="https://tomaverlaine.github.io{{ page.url }}">→ Chinese Postpunk Anthology</a>
+    </p>
+  </div>
 </article>
-
 <div class="post-nav">
   {% if page.previous.url %}
     <a class="prev" href="{{ page.previous.url | relative_url }}">

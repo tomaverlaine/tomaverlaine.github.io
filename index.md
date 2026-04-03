@@ -2,17 +2,14 @@
 layout: default
 title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
-
-
 <div class="zine">
 <ul class="zine-list">
   {% for post in site.posts %}
-  <li>
-    <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <p class="excerpt">{{ post.excerpt }}</p>
-  </li>
-  {% endfor %}
-</ul>
+* {{ post.date | date: "%Y-%m-%d" }}
+  {% if post.lang == "ja" %}[JP]{% elsif post.lang == "en" %}[EN]{% elsif post.lang == "zh" %}[ZH]{% endif %}
+  [{{ post.title }}]({{ post.url }})
 
+  {{ post.excerpt }}
+{% endfor %}
+</ul>
 </div>
