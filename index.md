@@ -5,8 +5,6 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 
 
 <div class="zine">
-
-
 <ul class="zine-list">
   {% for post in site.posts %}
   <li>
