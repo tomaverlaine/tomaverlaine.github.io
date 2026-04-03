@@ -22,12 +22,14 @@ body {
   all: unset;
   display: block !important;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 3em;
 }
 
 .site-title {
-  font-size: 1.4rem;
+  font-size: 2.0rem; 
+  font-weight: 300;
   letter-spacing: 0.08em;
+  line-height: 1.8em;
   display: block !important;
   float: none;
   margin: 0;
@@ -39,8 +41,9 @@ body {
 }
 
 .site-nav {
-  margin-top: 8px;
+  margin-top: 0px;
   font-size: 0.8rem;
+  line-height: 1em;
   opacity: 0.6;
   float: none; 
 }
@@ -55,7 +58,13 @@ body {
   border-bottom: 1px solid #000;
 }
 
+.zine {
+  margin-top: 0;
+}
 
+.post-header {
+  margin-bottom: 0;
+}
 /* タイトル */
 .post-title {
   font-size: 1.8rem;
@@ -69,7 +78,7 @@ body {
 .post-date {
   font-size: 0.8rem;
   opacity: 0.6;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 /* 本文 */
@@ -78,9 +87,10 @@ body {
 }
 
 /* 見出し */
-.post-content h2 {
-  font-weight: normal;
-  margin-top: 1.5em;
+ .post-content h2 {
+ font-size: 1.4em;
+  font-weight: 300;
+  margin-top: 1em;
   margin-left: -8px;
 }
 
@@ -102,9 +112,6 @@ img {
   margin: 20px 0;
 }
 
-.zine {
-  margin-top: 60px;
-}
 
 /* イントロ */
 .intro p{
