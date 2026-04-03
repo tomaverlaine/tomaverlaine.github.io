@@ -2,10 +2,6 @@
 layout: default
 title: {{ page.title }}
 ---
----
-layout: default
----
-
 <div class="zine">
 <article class="post">
   <header class="post-header">
@@ -18,7 +14,7 @@ layout: default
       <div class="lang-switch">
         {% for post in translations %}
           {% if post.lang == page.lang %}
-            <strong>{{ post.lang }}</strong>
+            {{ post.lang }}
           {% else %}
             <a href="{{ post.url }}">{{ post.lang }}</a>
           {% endif %}
@@ -30,14 +26,17 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-
     <p class="post-source">
-      <a href="{{ page.url | absolute_url }}">→ Chinese Postpunk Anthology</a>
+      <a href="{{ page.url | absolute_url }}">Chinese Postpunk Anthology</a>
     </p>
   </div>
 </article>
 
-{% assign same_lang_posts = site.posts | where: "lang", page.lang %}
+<div class="post-nav">
+  {% assign same_lang_posts = site.posts 
+  | where: "lang", page.lang 
+  | sort: "date" 
+  | reverse %}
 
 {% assign prev_post = nil %}
 {% assign next_post = nil %}
@@ -49,21 +48,6 @@ layout: default
     {% assign next_post = same_lang_posts[index | plus: 1] %}
   {% endif %}
 {% endfor %}
-
-<div class="post-nav">
-  {% if prev_post %}
-    <a class="prev" href="{{ prev_post.url }}">
-      {{ prev_post.title }}
-    </a>
-  {% endif %}
-  
-  <a href="{{ '/' | relative_url }}">< index ></a>
-  
-  {% if next_post %}
-    <a class="next" href="{{ next_post.url }}">
-      {{ next_post.title }}
-    </a>
-  {% endif %}
 </div>
 
 </div>
