@@ -9,23 +9,20 @@ title: {{ page.title }}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-{% comment %}
-  言語切替スイッチ：ref が設定されている場合のみ
-{% endcomment %}
-{% if page.ref %}
-  {% assign translations = site.posts | where: "ref", page.ref %}
-  {% if translations.size > 1 %}
-    <div class="lang-switch">
-      {% for post in translations %}
-        {% if post.lang == page.lang %}
-          <strong>{{ post.lang }}</strong>
-        {% else %}
-          <a href="{{ post.url }}">{{ post.lang }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  {% endif %}
-{% endif %}
+    {% comment %}
+      言語切替スイッチ：langが定義されていて、かつrefが設定されており、他の言語の記事が存在する場合のみ表示
+    {% endcomment %}
+    {% if page.lang and page.ref %}
+      {% assign translations = site.posts | where: "ref", page.ref | where_exp: "post", "post.lang != page.lang" %}
+      {% if translations.size > 0 %}
+        <div class="lang-switch">
+          <span class="current-lang">{{ page.lang }}</span>
+          {% for post in translations %}
+            <a href="{{ post.url | relative_url }}">{{ post.lang }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endif %}
   </header>
 
   <div class="post-content">
@@ -36,30 +33,39 @@ title: {{ page.title }}
   </div>
 </article>
 
-{% if page.lang %}
-  {% comment %}
-    前後ナビゲーション：同じ言語の記事のみ
-  {% endcomment %}
-  {% assign same_lang_posts = site.posts | where:"lang", page.lang %}
-  {% assign index = same_lang_posts | index_of: page %}
-  {% assign prev_post = same_lang_posts[index | minus: 1] %}
-  {% assign next_post = same_lang_posts[index | plus: 1] %}
+{% comment %}
+  前後ナビゲーション：同じ言語の記事のみ（常に表示）
+{% endcomment %}
+{% assign same_lang_posts = site.posts | where: "lang", page.lang | sort: "date" %}
+{% for post in same_lang_posts %}
+  {% if post.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
 
-  <div class="post-nav">
-    {% if prev_post %}
-      <a class="prev" href="{{ prev_post.url | relative_url }}">
-         {{ prev_post.title }}
-      </a>
-    {% endif %}
-    
-    <a href="{{ '/' | relative_url }}">< index ></a>
-    
-    {% if next_post %}
-      <a class="next" href="{{ next_post.url | relative_url }}">
-        {{ next_post.title }} 
-      </a>
-    {% endif %}
-  </div>
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+{% if index > 0 %}
+  {% assign prev_post = same_lang_posts[index | minus: 1] %}
 {% endif %}
+{% assign next_index = index | plus: 1 %}
+{% if next_index < same_lang_posts.size %}
+  {% assign next_post = same_lang_posts[next_index] %}
+{% endif %}
+
+<div class="post-nav">
+  {% if prev_post %}
+    <a class="prev" href="{{ prev_post.url | relative_url }}">
+      ← {{ prev_post.title }}
+    </a>
+  {% endif %}
+  
+  <a href="{{ '/' | relative_url }}">index</a>
+  
+  {% if next_post %}
+    <a class="next" href="{{ next_post.url | relative_url }}">
+      {{ next_post.title }} →
+    </a>
+  {% endif %}
 </div>
 </div>
