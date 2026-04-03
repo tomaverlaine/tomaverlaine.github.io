@@ -4,61 +4,55 @@ title: {{ page.title }}
 ---
 
 <div class="zine">
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-    {% comment %}
-    言語切替スイッチ
-    {% endcomment %}
-    {% if page.ref %}
-      {% assign translations = site.posts | where: "ref", page.ref %}
-      {% if translations.size > 1 %}
-        <div class="lang-switch">
-          {% for post in translations %}
-            {% if post.lang == page.lang %}
-              <strong>{{ post.lang }}</strong>
-            {% else %}
-              <a href="{{ post.url }}">{{ post.lang }}</a>
-            {% endif %}
-          {% endfor %}
-        </div>
+      {%- comment -%}
+      言語切替スイッチ（ref がある場合のみ表示）
+      {%- endcomment -%}
+      {% if page.ref %}
+        {% assign translations = site.posts | where: "ref", page.ref %}
+        {% if translations.size > 1 %}
+          <div class="lang-switch">
+            {% for post in translations %}
+              {% if post.lang == page.lang %}
+                <strong>{{ post.lang }}</strong>
+              {% else %}
+                <a href="{{ post.url }}">{{ post.lang }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
       {% endif %}
+
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+      <p class="post-source">
+        <a href="https://tomaverlaine.github.io{{ page.url }}">→ Chinese Postpunk Anthology</a>
+      </p>
+    </div>
+  </article>
+
+  <div class="post-nav">
+    {%- comment -%}
+    前後ナビゲーション（単純に時系列順、言語は関係なし）
+    {%- endcomment -%}
+    {% if page.previous %}
+      <a class="prev" href="{{ page.previous.url | relative_url }}">
+        ← {{ page.previous.title }}
+      </a>
     {% endif %}
-  </header>
 
-  <div class="post-content">
-    {{ content }}
-    <p class="post-source">
-      <a href="https://tomaverlaine.github.io{{ page.url }}">→ Chinese Postpunk Anthology</a>
-    </p>
+    <a href="{{ '/' | relative_url }}">< index ></a>
+
+    {% if page.next %}
+      <a class="next" href="{{ page.next.url | relative_url }}">
+        {{ page.next.title }} →
+      </a>
+    {% endif %}
   </div>
-</article>
-
-{% comment %}
-前後ナビゲーション（同言語記事のみ）
-{% endcomment %}
-{% assign lang_posts = site.posts | where: "lang", page.lang | sort: "date" %}
-{% assign index = 0 %}
-{% for p in lang_posts %}
-  {% if p.url == page.url %}
-    {% assign index = forloop.index0 %}
-  {% endif %}
-{% endfor %}
-
-{% assign prev_post = lang_posts[index | minus: 1] %}
-{% assign next_post = lang_posts[index | plus: 1] %}
-
-<div class="post-nav">
-  {% if prev_post %}
-    <a class="prev" href="{{ prev_post.url }}">{{ prev_post.title }}</a>
-  {% endif %}
-  
-  <a href="{{ '/' | relative_url }}">< index ></a>
-  
-  {% if next_post %}
-    <a class="next" href="{{ next_post.url }}">{{ next_post.title }}</a>
-  {% endif %}
-</div>
 </div>
