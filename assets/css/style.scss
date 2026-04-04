@@ -15,6 +15,20 @@
 }
 
 /* 全体 */
+
+:lang(ja), :lang(zh) {
+  letter-spacing: 0.02em;
+  line-height: 2.0em;
+}
+
+html:lang(ja) body {
+  font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
+}
+
+html:lang(zh-CN) body {
+  font-family: "Noto Sans SC", "PingFang SC", "Inter", sans-serif;
+}
+
 body {
   font-family:
     "rabiqcute",
@@ -42,10 +56,8 @@ body {
   }
 }
 
-:lang(ja), :lang(zh) {
-  letter-spacing: 0.02em;
-  line-height: 2.0em;
-}
+
+
 .page-content {
     max-width: 100%;
 }
@@ -152,18 +164,14 @@ h2 {
 
 .post-nav {
   display: flex;
-  justify-content: space-between; /* 左右に広げる */
-  align-items: center;
-  margin-top: 2em;
-  font-size: 0.95em;
-  gap: 1em; /* 要素間の隙間 */
+  justify-content: space-between;
+  margin-top: 3rem;
+  font-size: 0.9rem;
 }
 
-.post-nav .prev,
-.post-nav .next,
-.post-nav .index {
-  flex: 1;            /* 均等にスペースを割り当てる */
-  text-align: center; /* 中央揃え */
+.post-nav a {
+  text-decoration: none;
+  opacity: 0.8;
 }
 
 

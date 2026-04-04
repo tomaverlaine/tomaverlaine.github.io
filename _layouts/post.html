@@ -34,27 +34,25 @@ title: {{ page.title }}
   </div>
 </article>
 
-<div class="post-nav">
-  {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
-  {% assign index = same_lang_posts | index_of: page %}
-  
-  {% assign prev_index = index | minus: 1 %}
-  {% assign next_index = index | plus: 1 %}
+{% assign posts = site.posts | where: "lang", page.lang | sort: "date" | reverse %}
 
-  {% if prev_index >= 0 %}
-    {% assign prev_post = same_lang_posts[prev_index] %}
-    <a class="prev" href="{{ prev_post.url | relative_url }}">
-      {{ prev_post.title }}
-    </a>
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% for post in posts %}
+  {% if post.url == page.url %}
+    {% assign prev = posts[forloop.index] %}
+    {% assign next = posts[forloop.index0 | minus: 1] %}
+  {% endif %}
+{% endfor %}
+
+<nav class="post-nav">
+  {% if next %}
+    <a href="{{ next.url }}">← {{ next.title }}</a>
   {% endif %}
 
-  <a href="{{ '/' | relative_url }}">index</a>
-
-  {% if next_index < same_lang_posts.size %}
-    {% assign next_post = same_lang_posts[next_index] %}
-    <a class="next" href="{{ next_post.url | relative_url }}">
-      {{ next_post.title }}
-    </a>
+  {% if prev %}
+    <a href="{{ prev.url }}">{{ prev.title }} →</a>
   {% endif %}
-</div>
+</nav>
 </div>
