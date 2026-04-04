@@ -28,8 +28,8 @@ body {
   line-height: 1.85;
   letter-spacing: 0.015em;
   max-width: 100%;
-  margin: 0;
-  padding: 0 2rem 6%;
+  margin: 24 20 0 9%;
+  padding: 0;
   display: block !important;
 }
 
@@ -38,7 +38,7 @@ body {
 @media (min-width: 768px) {
   body {
     max-width: 100%;
-    margin: auto;
+    margin: 24 auto auto 12%;
   }
 }
 
@@ -47,6 +47,7 @@ body {
   line-height: 2.0em;
 }
 .page-content {
+    max-width: 100%;
 }
 
 .site-header {
