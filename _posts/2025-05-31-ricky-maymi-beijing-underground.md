@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ricky Maymi and Beijing Underground Rock Scene"
+title: "Ricky Maymi and Beijing Underground"
 date: 2025-05-31
 excerpt: Maymi's first encounter with Beijing's underground dates back to 2012. The music blew his mind. He sensed in it a dynamism long lost in Western rock
 lang: en
