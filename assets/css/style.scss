@@ -109,8 +109,8 @@ body {
 }
 
 .zine {
-  max-width: 68ch;
-  margin: 0 auto;
+  max-width: 64ch;
+  margin: 0 auto auto 6%;
 }
 
 .post-header {
@@ -131,7 +131,7 @@ body {
   font-size: 0.8em;
   opacity: 0.6;
   margin-bottom: 1em;
-  margin-left: -10px;
+  margin-left: -5px;
 }
 
 /* 本文 */
@@ -214,9 +214,15 @@ img {
 
 /* 各記事 */
 .zine-list li {
-  font-size: 1.2em; /* 本文より大きめ */
+  font-size: 1.2em; 
+  line-height: 1;
 }
-
+.post-date li{
+  font-size: 0.8em;
+  opacity: 0.6;
+  margin-bottom: 0em;
+  margin-left: -5px;
+}
 /* 日付 */
 .date {
   display: block;
@@ -231,7 +237,7 @@ img {
   border-bottom: none;
 }
 .post-excerpt {
-  margin-top: 1.1em;
+  margin: 1em 0 1em 1em;
   line-height:1em;
 }
 
