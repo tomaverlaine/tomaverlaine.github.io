@@ -9,7 +9,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
   {% if post.lang == "en" %}
   <li>
     <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-    <div class="post-title">
+    <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
     <p class="post-excerpt">{{ post.excerpt }}</p>
