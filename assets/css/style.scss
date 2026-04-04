@@ -111,7 +111,7 @@ body {
 }
 
 .zine {
-  max-width: 72ch;
+  max-width: 68ch;
   margin-top: 0 auto 0 auto;
 }
 
@@ -120,7 +120,7 @@ body {
 }
 /* タイトル */
 .post-title {
-  font-size: 2.2rem;
+  font-size: 2.2em;
   font-weight: 300;
   line-height: 1em;
   letter-spacing: 0.04em;
@@ -130,7 +130,7 @@ body {
 
 /* 日付 */
 .post-date {
-  font-size: 0.8rem;
+  font-size: 0.8em;
   opacity: 0.6;
   margin-bottom: 1em;
   margin-left: -10px;
@@ -187,9 +187,6 @@ a {
 }
 
 a:hover {
-  background: #000;
-  color: #fff;
-  border-bottom: none;
 }
 
 img {
@@ -225,13 +222,13 @@ img {
 /* 日付 */
 .date {
   display: block;
-  font-size: 0.8rem;
+  font-size: 0.8em;
   opacity: 0.5;
 }
 
 /* タイトル */
 .zine-list a {
-  font-size: 1.1rem;
+  font-size: 1.1em;
   text-decoration: none;
   border-bottom: 1px solid #000;
 }
@@ -240,7 +237,7 @@ img {
 .site-footer {
   margin-top: 80px;
   margin-bottom: 40px;
-  font-size: 0.8rem;
+  font-size: 0.8em;
   opacity: 0.5;
   font-family: Inter;  
 }
