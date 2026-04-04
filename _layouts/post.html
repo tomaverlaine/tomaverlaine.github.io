@@ -33,26 +33,28 @@ title: {{ page.title }}
     </p>
   </div>
 </article>
-
+<div>
 {% assign posts = site.posts | where: "lang", page.lang | sort: "date" | reverse %}
-
-{% assign prev = nil %}
-{% assign next = nil %}
-
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
 {% for post in posts %}
   {% if post.url == page.url %}
-    {% assign prev = posts[forloop.index] %}
-    {% assign next = posts[forloop.index0 | minus: 1] %}
+    {% assign next_post = posts[forloop.index] %}
+    {% if forloop.index0 > 0 %}
+      {% assign prev_index = forloop.index0 | minus: 1 %}
+      {% assign prev_post = posts[prev_index] %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
 <nav class="post-nav">
-  {% if next %}
-    <a href="{{ next.url }}">← {{ next.title }}</a>
+  {% if next_post %}
+    <a href="{{ next_post.url }}">← {{ next_post.title }}</a>
   {% endif %}
-
-  {% if prev %}
-    <a href="{{ prev.url }}">{{ prev.title }} →</a>
+  {% if prev_post %}
+    <a href="{{ prev_post.url }}">{{ prev_post.title }} →</a>
   {% endif %}
 </nav>
+</div>
+
 </div>
