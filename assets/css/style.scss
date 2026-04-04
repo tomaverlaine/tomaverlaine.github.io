@@ -24,22 +24,33 @@ body {
   font-size: 1.125rem;
   line-height: 1.85;
   letter-spacing: 0.015em;
-
-  max-width: 80ch;
-  margin-left: 12%;
-  margin-right: auto;
-
+  max-width: 100%;
+  margin: 0;
+  padding: 2rem 6%;
   display: block !important;
+}
+
+
+/* PC（オフセット適用） */
+@media (min-width: 768px) {
+  body {
+    max-width: 72ch;
+
+    margin-left: 10%;
+    margin-right: auto;
+
+    padding: 4rem 0;
+  }
 }
 
 :lang(ja), :lang(zh) {
   letter-spacing: 0.02em;
 }
 .page-content {
-  max-width: 80ch;
+  max-width: 100%;
   margin-left: 12%;
   margin-right: auto;
-  padding: 0;
+  padding: 4rem 0;
 }
 
 .site-header {
