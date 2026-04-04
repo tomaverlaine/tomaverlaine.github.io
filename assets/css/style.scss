@@ -2,7 +2,7 @@
 ---
 
 /* Google Fonts - Noto Sans SC（自動サブセット300KB） */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500&family=Noto+Sans+SC:wght@400;500&display=swap');
 
 /* Interセルフホスト（英語） */
 @font-face {
@@ -11,20 +11,29 @@
   font-weight: 400; font-display: swap;
 }
 
-/* 言語別 */
-body.lang-en { font-family: Inter, 'Noto Sans SC', system-ui, sans-serif; }
-body.lang-zh { font-family: 'Noto Sans SC', Inter, sans-serif; }
-body.lang-ja { font-family: Inter, system-ui,'Noto Sans SC',  sans-serif; }
 
 /* 全体 */
 body {
+  font-family:
+    "Inter",
+    "Noto Sans JP",
+    "Noto Sans SC",
+    system-ui,
+    sans-serif;
+
+  font-size: 1.125rem;
+  line-height: 1.85;
+  letter-spacing: 0.015em;
+
   max-width: 80ch;
   margin-left: 12%;
   margin-right: auto;
-  font-family: sans-serif;
-  line-height: 1.9em;
+
+  display: block !important;
+}
+
+:lang(ja), :lang(zh) {
   letter-spacing: 0.02em;
-  display: block !important; 
 }
 .page-content {
   max-width: 80ch;
@@ -103,7 +112,7 @@ body {
 
 /* 本文 */
 .post-content p {
-  margin-bottom: 1.2 em;
+  margin-bottom: 1.2em;
 }
 
 /* 見出し */
