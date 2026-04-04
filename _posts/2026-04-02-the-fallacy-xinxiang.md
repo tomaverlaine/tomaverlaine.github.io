@@ -11,7 +11,7 @@ excerpt: jagged, dissonant textures and sudden bursts of noise
 ---
 ## Introduction
 
-Active since 2008 under the banner of post-punk and no wave, 疯医 The Fallacy are a band like no other. Frontman Wang Xubo has never been shy about his devotion to the legendary Australian post-punk outfit The Birthday Party — a band active in the late 1970s and early 1980s and widely regarded as a precursor to noise rock and no wave aesthetics — and the band’s explosive, convulsive style carries that legacy forward. Combined with their freak-out saxophone work, they stand apart even within the Chinese rock scene.
+Active since 2008 under the banner of post-punk and no wave, The Fallacy are a band like no other. Frontman Wang Xubo has never been shy about his devotion to the legendary Australian post-punk outfit The Birthday Party — a band active in the late 1970s and early 1980s and widely regarded as a precursor to noise rock and no wave aesthetics — and the band’s explosive, convulsive style carries that legacy forward. Combined with their freak-out saxophone work, they stand apart even within the Chinese rock scene.
 
 According to Wang Xubo, what drew him to The Birthday Party is encapsulated in Nick Cave’s description of the band’s guitarist — referring to Rowland S. Howard, whose playing was characterized by jagged, dissonant textures and sudden bursts of noise — as producing a completely unique sound: chaotic, violent, yet strangely beautiful.
 
@@ -47,7 +47,7 @@ Wang Xubo was among those whose lives were changed by the 1998 concert. As a tee
 
 At the time, rock culture was mediated largely through print publications, which often leaned toward romanticism and subcultural idealism rather than market logic. It was likely during this period that he encountered The Birthday Party, alongside the literary sensibilities that would later shape his lyric writing.
 
-In 2007, Wang met bassist Zhang Nan, and together with drummer Sun Zhaowei formed the band. The English name The Fallacy was chosen in place of a literal translation of “疯医” (“Crazy Doctor”), which they felt sounded awkward or overly literal in English.
+In 2007, Wang met bassist Zhang Nan, and together with drummer Sun Zhaowei formed the band. The English name The Fallacy was chosen in place of a literal translation of “Crazy Doctor” in Chinese, which they felt sounded awkward or overly literal in English.
 
 ## Expansion and Recognition
 

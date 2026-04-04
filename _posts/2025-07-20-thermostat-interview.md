@@ -10,13 +10,9 @@ lang: en
 ref: thermostat
 ---
 
-> Originally published in Japanese on [note.com](https://note.com/tomaverlaine/n/n6e83c8e84f1a)  
+## Introduction
 
----
-
-## Préface
-
-Thermostat (恒温人员) was started in 2020 by a college student, Roubing, who began creating music as a bedroom project using GarageBand. Now performing as a duo with guitarist Sun Xiao, their subtle blend of lo-fi, dream pop, and shoegaze creates a dreamy, introspective sound. They describe themselves as "a poor quality lo-fi noise pop project."
+Thermostat was started in 2020 by a college student, Roubing, who began creating music as a bedroom project using GarageBand. Now performing as a duo with guitarist Sun Xiao, their subtle blend of lo-fi, dream pop, and shoegaze creates a dreamy, introspective sound. They describe themselves as "a poor quality lo-fi noise pop project."
 
 They've released one full album in 2023, *[A Very Hazy Afternoon](https://thermostat0414.bandcamp.com/album/a-very-hazy-afternoon)*, which is one of our best albums of that year, and two EPs, including the pretty impressive *[Daria](https://thermostat0414.bandcamp.com/album/daria)*, released in March 2025.
 
@@ -30,7 +26,7 @@ This interview was conducted via email, with the questions in English and the an
 
 My early creative process involved connecting a guitar to an iRig and recording on the iPad. You can listen to those early demos on [StreetVoice](https://streetvoice.com/jake414/)—they sound very rough now, but I feel they carry a more natural and sincere emotion compared to my current work.
 
-Sun Xiao is a member of Thermostat for live performances. The two of us, plus a drum machine and a Roland SP404, complete Thermostat's live setup. He's also my colleague (yes, we both currently work at StreetVoice's Beijing office). Sun Xiao has been a lot of help—he's an excellent guitarist and creator. He even has his own project called "照片送到店里那天" (The Day the Photos Were Sent to the Shop). He contributed to the recording of some tracks, including the guitar, mixing, and mastering for *Don't Worry, I'm an Idiot*, which you like.
+Sun Xiao is a member of Thermostat for live performances. The two of us, plus a drum machine and a Roland SP404, complete Thermostat's live setup. He's also my colleague (yes, we both currently work at StreetVoice's Beijing office). Sun Xiao has been a lot of help—he's an excellent guitarist and creator. He even has his own project called The Day the Photos Were Sent to the Shop. He contributed to the recording of some tracks, including the guitar, mixing, and mastering for *Don't Worry, I'm an Idiot*, which you like.
 
 I believe the music style I love doesn't require many collaborators and I'm not a great band leader, so a duo project with occasional collaborations gives me more freedom.
 
@@ -50,7 +46,7 @@ I believe the music style I love doesn't require many collaborators and I'm not 
 
 **Roubing:** Yes, I've lived in Beijing since I was a kid, and I've never left the city for more than a month. I spent my entire primary, secondary and university years in this city, and I still live with my parents, which I'm a bit self-conscious about.
 
-## Thermostat's Musical Style / 恒温人员的音乐风格
+## Thermostat's Musical Style
 
 **Toma: When I first listened to Thermostat, I think of the independent music in southern China. So I was a little surprised to find out you're based in Beijing. To outsiders like me, Beijing's indie scene is often associated with intense rock and punk, but Thermostat's sound feels distinct. How do you see your relationship with the local independent scene?**
 
