@@ -110,7 +110,6 @@ body {
 
 .zine {
   max-width: 68ch;
-  max-width: 68ch;
   margin: 0 auto;
 }
 
@@ -216,7 +215,6 @@ img {
 /* 各記事 */
 .zine-list li {
   font-size: 1.2em; /* 本文より大きめ */
-  margin-bottom: 1.2em;
 }
 
 /* 日付 */
@@ -231,6 +229,10 @@ img {
   font-size: 1.1em;
   text-decoration: none;
   border-bottom: none;
+}
+.post-excerpt {
+  margin-top: 1.1em;
+  line-height:1em;
 }
 
 /* フッター */
