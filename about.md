@@ -13,9 +13,7 @@ permalink: /about/
 
 <p>The selection is subjective. What is included matters, but so does what is left out.</p>
 
-<p>Texts are written in Japanese, English, and occasionally Chinese.</p>
-
-<p>Texts are meant to be read discontinuously.</p>
+<p>The text is written in English and Japanese, and occasionally in Chinese, and is intended to be read non-sequentially.</p>
 
 <p>
   <a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify</a> — 
