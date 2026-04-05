@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CHINESE POSTPUNK ANTHOLOGY
+lang:en
 ---
 <! DOCTYPE html>
 <html lang="{{ page.lang | default: site.default_lang }}">
@@ -17,8 +18,11 @@ title: CHINESE POSTPUNK ANTHOLOGY
 <body class="lang-{{ page.lang | default: site.default_lang }}">
 <main class="page-content">
   {% include header.html %}
+<div class="zine"> 
   {{ content }}
+</div>
   {% include footer.html %}
+
 </main>
 </body>
 </html>

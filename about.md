@@ -2,8 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+lang:en
 ---
-<div class="zine">
 <div class="about">
 <p>Chinese Postpunk Anthology is a collection of texts on independent music scenes across China.</p>
 
@@ -13,7 +13,7 @@ permalink: /about/
 
 <p>The selection is subjective. What is included matters, but so does what is left out.</p>
 
-<p>The text is written in English and Japanese, and occasionally in Chinese, and is intended to be read non-sequentially.</p>
+<p>Texts are written in English, Japanese, and occasionally Chinese, and are meant to be read discontinuously.</p>
 
 <p>
   <a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify</a> — 
@@ -21,5 +21,4 @@ permalink: /about/
   <a href="https://tomaverlaine.substack.com">Substack</a> — 
   <a href="https://x.com/tomaverlaine">@tomaverlaine</a>
 </p>
-</div>
 </div>

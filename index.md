@@ -3,7 +3,6 @@ layout: default
 title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
 
-<div class="zine">
 <ul class="zine-list">
 {% for post in site.posts %}
   {% if post.lang == "en" %}
@@ -17,4 +16,3 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
   {% endif %}
 {% endfor %}
 </ul>
-</div>
