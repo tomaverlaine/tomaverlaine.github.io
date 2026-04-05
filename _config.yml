@@ -1,4 +1,4 @@
-title: "Chinese Postpunk Anthology"
+title: "CHINESE POSTPUNK ANTHOLOGY"
 author: "Toma Verlaine"
 description: "Chinese Postpunk Anthology is a collection of notes,
 translations, and fragments on independent music scenes
@@ -16,5 +16,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      lang: "en"      # デフォルトは英語
       ref: ""         # 単言語投稿は空 
