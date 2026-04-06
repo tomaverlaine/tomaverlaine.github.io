@@ -19,15 +19,25 @@
     max-width: 100%;
     margin: 0;
     padding: 15px 2ch;
-    font-size: 15px;
+    font-size: 16px; /* 全体の基本フォントサイズ */
   }
-  .zine{
-    max-width: 100%;
-    margin: 0;
-    padding: 1em 16px; 
-  } 
-}
 
+  .zine {
+    max-width: 100%;
+    margin: 2em;
+    padding: 1em 16px; 
+  }
+
+  html[lang="ja"] .zine {
+    margin: auto 2em;
+    font-size: 16px; 
+  }
+
+  html[lang="zh"] .zine {
+    margin: auto 2em;
+    font-size: 16px; 
+  }
+}
 
 html {
   font-family: sans-serif;
@@ -37,7 +47,7 @@ html {
 }
 
 body {
-  max-width: 100%;
+  max-width: 800px;
   margin: 24px auto auto 12%;
   font-size: 1.5rem;
   line-height: 1.85;
