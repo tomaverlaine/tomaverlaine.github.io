@@ -14,30 +14,6 @@
   font-display: swap;
 }
 
-@media (max-width: 600px) {
-  body {
-    max-width: 100%;
-    margin: 0;
-    padding: 15px 2ch;
-    font-size: 16px; /* 全体の基本フォントサイズ */
-  }
-
-  .zine {
-    max-width: 100%;
-    margin: 2em;
-    padding: 1em 16px; 
-  }
-
-  html[lang="ja"] .zine {
-    margin: auto 2em;
-    font-size: 16px; 
-  }
-
-  html[lang="zh"] .zine {
-    margin: auto 2em;
-    font-size: 16px; 
-  }
-}
 
 html {
   font-family: sans-serif;
@@ -68,10 +44,6 @@ html:lang(zh) body {
   font-family:  "Inter", "Noto Sans SC", "PingFang SC", "Inter", sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
-}
-
-    .post-content p {
-    margin-left: 0;
 }
 
 
@@ -131,7 +103,7 @@ html:lang(ja, zh) .site-title {
 
 .zine {
   max-width: 64ch;
-  margin: 1em auto auto 6%;
+  margin: 1em 2em auto 6%;
 }
 html:lang(ja) .zine {
   max-width: 77ch;
@@ -199,7 +171,7 @@ h2 {
   line-height: 1.1em;
 }
 .post-content h3 {
- font-size: 1.7em; /* 本文より大きめ */
+  font-size: 1.7em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.5em;
   font-weight: 400; 
@@ -305,4 +277,42 @@ img {
   background: #000;
   color: #fff;
   border-bottom: none;
+}
+
+/* PC向けスタイル（基本） */
+.zine {
+  max-width: 800px;
+  margin: 4em auto;
+  padding: 2em;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* スマホ用（600px以下） */
+@media (max-width: 600px) {
+  body {
+    padding: 15px 2ch;
+    font-size: 15px;
+  }
+
+  .zine {
+    max-width: 100%;
+    margin: 2em;
+    padding: 1em 16px;
+  }
+
+  html[lang="ja"] .zine {
+    margin: auto 2em;
+    font-size: 1rem;
+  }
+
+  html[lang="zh"] .zine {
+    margin: auto 2em;
+    font-size: 1rem;
+  }
+
+  html[lang="en"] .zine {
+    margin: auto;
+
+  }
 }
