@@ -116,18 +116,18 @@ body {
   max-width: 64ch;
   margin: 0 auto auto 6%;
 }
-.zine p:nth-child(2n)  { margin-left: 0.2em; }
-.zine p:nth-child(3n)  { margin-left: 0.5em; }
-.zine p:nth-child(5n)  { margin-left: 0.3em; }
-.zine p:nth-child(7n)  { margin-left: 0.6em; }
-.zine p:nth-child(11n) { margin-left: 0.4em; }
+.zine p:nth-child(2n)  { margin-left: 0.15em; }
+.zine p:nth-child(3n)  { margin-left: 0.1em; }
+.zine p:nth-child(5n)  { margin-left: -0.1em; }
+.zine p:nth-child(7n)  { margin-left: 0em; }
+.zine p:nth-child(11n) { margin-left: -0.15em; }
 
 
 html:lang(ja) .zine {
   max-width: 77ch;
 }
 
-html:lang(zh-CN) .zine {
+html:lang(zh) .zine {
   max-width: 80ch;
 }
 
