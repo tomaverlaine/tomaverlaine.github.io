@@ -142,6 +142,7 @@ html:lang(zh) .zine {
   margin-left: -5px;
 }
 .lang-switch {
+  display: flex;
   font-size: 0.8em;
   margin-bottom: 1em;
   margin-left: -5px;
@@ -150,13 +151,13 @@ html:lang(zh) .zine {
 
 /* 本文 */
 .post-content p {
-  margin-left: 1.8em;
+  margin-left: 1.0em;
   margin-bottom: 1.2em;
 }
 
 /* 見出し */
 h2 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 600;
   margin-top: 2.0em;
   margin-left: 0.4em;
