@@ -7,7 +7,6 @@ title: {{ page.title }}
  <header class="post-header">
    <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
   <h1 class="post-title">{{ page.title }}</h1> 
-  <h2 class="post-subtitle">{{ page.subtitle }}</h2>
   
   {% if page.ref and page.ref != "" %}
       {% assign translations = site.posts | where: "ref", page.ref %}

@@ -126,11 +126,12 @@ html:lang(zh) .zine {
   line-height: 1em;
   letter-spacing: 0.04em;
   margin-top: 0; 
+  margin-right: auto;
   margin-bottom: 0;
   margin-left: -10px;
 }
 
-.post-date {
+.post-date p {
   font-size: 0.8em;
   opacity: 0.6;
   margin-left: -5px;
