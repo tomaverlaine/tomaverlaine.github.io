@@ -24,27 +24,20 @@ html {
   font-size: 16px; 
 }
 html:lang(ja) body {
+  font-size: 1rem;
   font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
-  font-size: 0.93em;
+
 }
 
 html:lang(zh) body {
+  font-size: 1rem;
   font-family: "Noto Sans SC", "PingFang SC", "Inter", sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
-  font-size: 0.93em;
 }
 
-@media (max-width: 600px) {
-  body {    
-    font-size: 1.8rem;
-    max-width: 100%;
-    margin: 0;
-    padding: 1rem;
-    
-  }
     .post-content p {
     margin-left: 0;
   }
@@ -116,13 +109,6 @@ body {
   max-width: 64ch;
   margin: 0 auto auto 6%;
 }
-.zine p:nth-child(2n)  { margin-left: 0.15em; }
-.zine p:nth-child(3n)  { margin-left: 0.1em; }
-.zine p:nth-child(5n)  { margin-left: -0.1em; }
-.zine p:nth-child(7n)  { margin-left: 0em; }
-.zine p:nth-child(11n) { margin-left: -0.15em; }
-
-
 html:lang(ja) .zine {
   max-width: 77ch;
 }
@@ -130,6 +116,12 @@ html:lang(ja) .zine {
 html:lang(zh) .zine {
   max-width: 80ch;
 }
+
+.zine p:nth-child(2n)  { margin-left: 0.15em; }
+.zine p:nth-child(3n)  { margin-left: 0.1em; }
+.zine p:nth-child(5n)  { margin-left: -0.1em; }
+.zine p:nth-child(7n)  { margin-left: 0em; }
+.zine p:nth-child(11n) { margin-left: -0.15em; }
 
 .post-header {
   margin-bottom: 0;
@@ -188,7 +180,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   margin-top: 3rem;
-  font-size: 0.9rem;
+  font-size: 0.9em;
 }
 
 .post-nav a {
