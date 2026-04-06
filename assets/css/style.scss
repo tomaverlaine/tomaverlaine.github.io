@@ -15,8 +15,6 @@
 }
 
 /* 全体 */
-
-
 html {
   font-family: sans-serif;
   font-family: "RabiqCute", "Inter", "Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
@@ -46,9 +44,7 @@ html:lang(zh) body {
   font-family:  "Inter", "Noto Sans SC", "PingFang SC", "Inter", sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
- }
 }
-
 
 .page-content {
     max-width: 100%;
@@ -123,7 +119,7 @@ html:lang(zh) .zine {
 .post-header {
   margin-bottom: 0;
 }
-/* タイトル */
+
 .post-title h1{
   font-size: 2.2em;
   font-weight: 400;
@@ -134,13 +130,12 @@ html:lang(zh) .zine {
   margin-left: -10px;
 }
 
-/* 日付 */
 .post-date {
   font-size: 0.8em;
   opacity: 0.6;
-
   margin-left: -5px;
 }
+
 .lang-switch {
   font-size: 0.8em;
   margin-bottom: 1em;
@@ -229,6 +224,7 @@ img {
   font-size: 1.2em; 
   line-height: 1;
 }
+
 .post-date li{
   font-size: 0.8em;
   opacity: 0.6;
@@ -247,6 +243,7 @@ img {
   text-decoration: none;
   border-bottom: none;
 }
+
 .post-excerpt {
   margin: 0 0 1.4em 1em;
   line-height:1em;
