@@ -109,10 +109,10 @@ html:lang(ja, zh) .site-title {
 html:lang(ja) .zine {
   max-width: 77ch;
 }
-
 html:lang(zh) .zine {
   max-width: 80ch;
 }
+
 .zine p:nth-child  { margin-left: 1.15em; }
 .zine p:nth-child(2n)  { margin-left: 1.15em; }
 .zine p:nth-child(3n)  { margin-left: 1.1em; }
