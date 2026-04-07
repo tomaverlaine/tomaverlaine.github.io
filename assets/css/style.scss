@@ -79,6 +79,9 @@ html:lang(ja, zh) .site-title {
 }
 
 .site-nav {
+  display: flex;
+  gap: 20px;  
+  flex-wrap: wrap;    
   margin-top: 0.7em;
   padding-left: 0.8em;
   font-size: 1em;
