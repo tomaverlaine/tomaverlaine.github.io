@@ -134,22 +134,22 @@ html:lang(zh) .zine {
   max-width: 80ch;
 }
 
-.zine p {
+  p {
   text-indent: 0;
   margin-bottom: 0.8em;
 }
 
-.zine p:nth-of-type(2n) {
+  p:nth-of-type(2n) {
   text-indent: 0.06em;
   margin-bottom: 0.75em;
 }
 
-.zine p:nth-of-type(3n) {
+  p:nth-of-type(3n) {
   text-indent: -0.04em;
   margin-bottom: 0.88em;
 }
 
-.zine p:nth-of-type(5n) {
+  p:nth-of-type(5n) {
   text-indent: 0.1em;
   margin-bottom: 0.72em;
 }
