@@ -3,6 +3,7 @@ author: "Toma Verlaine"
 description: "Chinese Postpunk Anthology is a collection of notes,
 translations, and fragments on independent music scenes
 across China, with a focus on post-punk and its margins."
+permalink: /:year-:month-:day-:title/
 plugins:
   - jekyll-feed
 
