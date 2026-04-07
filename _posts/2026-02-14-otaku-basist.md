@@ -1,6 +1,7 @@
 ---
 title: "Otaku Density Test: Female Bassist Edition"
-date: 2026-01-01
+date: 2026-02-14
+lang: en
 categories:
   - podcast
   - transcript
