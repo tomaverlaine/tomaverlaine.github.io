@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "専访北京独立流行计划恒温人员Thermostat"
+title: "专访北京独立流行计划恒温人员Thermostat"
 date: 2025-07-20
 author: Toma Verlaine
 excerpt: There's a lot of emotion on the Daria EP, and overall it's a mood change from down to positive
