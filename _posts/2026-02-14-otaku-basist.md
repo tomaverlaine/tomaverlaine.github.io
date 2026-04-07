@@ -23,11 +23,11 @@ Girl Phone Talk is a podcast by Zoo-chan of Lonely Cookies and Quamquan of Peach
 
 I asked Zoo-chan if there was a text version, and she was kind enough to share an AI-generated transcript. Much appreciated.
 
-# Girl Phone Talk Vol. 7 "Otaku Density Test: Female Bassist Edition"
+##  Girl Phone Talk Vol. 7 "Otaku Density Test: Female Bassist Edition"
 
 Happy New Year, everyone! For the first Girl Phone Talk of 2026, our guest is one of our cool friends — Lu Lingjie, bassist of Silly Function, also known as XiaoLang, Lang Ye, and JJSpirit. Lu Lingjie is one of my closest friends. She's not only a bassist but also an illustrator, and she continues to create in many ways — producing music for the band, animating MVs, making posters, and crafting handmade works. In this deeply engaging conversation about music, manga, and the coming-of-age story of an otaku girl, we arrived at one conclusion: being surrounded by the things you love is what it means to have your dreams come true. May the new year bring you encounters with people, things, and moments that make your heart race!
 
-Official podcast description
+[podcast](https://open.spotify.com/episode/2KyKuynLEV1pNqYXKxDg5a?si=KPqX9n27Rb63FP1So_2tEg)
 
 ---
 
