@@ -5,7 +5,6 @@ permalink: /about/
 lang: en
 ---
 
-<div class="about">
   <p>Chinese Postpunk Anthology collects materials documenting independent music scenes across China.</p>
 
   <p>The site brings together notes, translations, and fragments written over time, without attempting to form a complete or unified narrative.</p>
@@ -22,4 +21,3 @@ lang: en
     <a href="https://tomaverlaine.substack.com">Substack</a> -
     <a href="https://x.com/tomaverlaine">@tomaverlaine</a>
   </p>
-</div>
