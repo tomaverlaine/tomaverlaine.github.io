@@ -156,7 +156,7 @@ html:lang(zh) .zine {
 /* 見出し */
 h2 {
   font-size: 1.7em;
-  font-weight: 600;
+  font-weight: 400;
   margin-top: 2.4em;
   margin-left: 0.4em;
 } 
@@ -165,7 +165,7 @@ h2 {
   font-size: 1.7em; /* 本文より大きめ */
   margin-top: 2.4em;
   margin-bottom: 0.5em;
-  font-weight: 600; 
+  font-weight: 400; 
   margin-left: 0.4em;
   line-height: 1.1em;
 }
@@ -173,7 +173,7 @@ h2 {
  font-size: 1.7em; /* 本文より大きめ */
   margin-top: 2.4em;
   margin-bottom: 0.5em;
-  font-weight: 600; 
+  font-weight: 400; 
   margin-left: 0.4em;
   line-height: 1.1em;
 }
@@ -190,6 +190,13 @@ h2 {
   text-decoration: none;
   opacity: 0.8;
 }
+
+.license-note {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 2rem;
+  line-height: 1.3;
+
 
 
 /* リンク */

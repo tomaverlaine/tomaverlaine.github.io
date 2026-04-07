@@ -19,11 +19,11 @@ tags:
 description: Transcript of Girl Phone Talk Vol.7 with Xiao Lang, bassist of the Wuhan indie band Silly Function. They talk about the band, anime, and their lives as otaku, drawing on the shared experiences of all three.
 excerpt: being surrounded by the things you love is what it means to have your dreams come true
 ---
-A podcast by Zoo-chan of 浪味仙贝 (Lonely Cookies) and Quamquan of 桃子假象 (Peach Illusion). In the recently released seventh episode, they welcome Xiao Lang, bassist of the Wuhan indie rock band Silly Function, for a talk titled "Otaku Level Check: The Otaku Bassist Girl," covering the band, anime, daily life, and more.
+Girl Phone Talk is a podcast by Zoo-chan of Lonely Cookies and Quamquan of Peach Illusion. In the seventh episode, they welcome Xiao Lang, bassist of the Wuhan indie rock band Silly Function, for a talk titled "Otaku Level Check" or "Otaku Density Test," covering the band, anime, daily life, and more.
 
-I asked Zoo-chan on Threads if there was a text version, and she was kind enough to share an AI-generated transcript. Much appreciated.
+I asked Zoo-chan if there was a text version, and she was kind enough to share an AI-generated transcript. Much appreciated.
 
-# {{page.title}}
+# Girl Phone Talk Vol. 7 "Otaku Density Test: Female Bassist Edition"
 
 Happy New Year, everyone! For the first Girl Phone Talk of 2026, our guest is one of our cool friends — Lu Lingjie, bassist of Silly Function, also known as XiaoLang, Lang Ye, and JJSpirit. Lu Lingjie is one of my closest friends. She's not only a bassist but also an illustrator, and she continues to create in many ways — producing music for the band, animating MVs, making posters, and crafting handmade works. In this deeply engaging conversation about music, manga, and the coming-of-age story of an otaku girl, we arrived at one conclusion: being surrounded by the things you love is what it means to have your dreams come true. May the new year bring you encounters with people, things, and moments that make your heart race!
 
@@ -672,3 +672,10 @@ _Music: "Tobira wo Akete" — ANZA (second opening theme of Cardcaptor Sakura)_
 _Music: "Stanley Should Be Happy" — Silly Function_
 
 _(End)_
+
+
+<hr>
+<div class="license-note">
+  <strong>License Note</strong><br>
+Transcript & description: © original creators, used with permission
+</div>
