@@ -7,7 +7,7 @@ categories:
   - transcript
   - translation 
 tags:
-  - Girls Phone Talk
+  - Girl Phone Talk
   - Silly Function
   - Lonely Cookies
   - Peach Illusion
@@ -31,7 +31,7 @@ Happy New Year, everyone! For the first Girl Phone Talk of 2026, our guest is on
 
 ---
 
-**Zoo-chan:** Hey everyone, welcome back to Girls' Phone Talk!! Okay so today's special guest is literally one of our coolest friends — Xiao Lang, aka Lang Ye, bassist of Silly Function. Say hi!!
+**Zoo-chan:** Hey everyone, welcome back to Girl Phone Talk!! Okay so today's special guest is literally one of our coolest friends — Xiao Lang, aka Lang Ye, bassist of Silly Function. Say hi!!
 
 **Xiao Lang:** Hey everyone. I'm Lu Lingjie, bassist of Silly Function. Also known as Goushi Lao Lang LLJ Spirit. Yeah, all of that is technically my name.
 
@@ -661,7 +661,7 @@ _Music: "Tobira wo Akete" — ANZA (second opening theme of Cardcaptor Sakura)_
 
 **Xiao Lang:** The best one.
 
-**Zoo-chan:** Silly Function has a new tour planned for 2026, right? We're waiting on the announcement. And please come back on the show with Wang Yi sometime. That's all for today — this has been Girls' Phone Talk, I'm Zoo-chan.
+**Zoo-chan:** Silly Function has a new tour planned for 2026, right? We're waiting on the announcement. And please come back on the show with Wang Yi sometime. That's all for today — this has been Girl Phone Talk, I'm Zoo-chan.
 
 **Quanquan:** I'm Quanquan.
 
