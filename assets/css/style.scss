@@ -264,6 +264,16 @@ h2 {
   margin: 0 0 1.4em 1em;
   line-height:1em;
 }
+.post-terms {
+  font-size: 0.8em;
+  color: #666;       /* 薄めのグレー */
+  margin-top: 0.2em;
+}
+
+.post-terms .term {
+  /* 必要なら少しスペースを付ける */
+  margin-right: 1.2em;
+}
 
 /* about */
 .social-links {
