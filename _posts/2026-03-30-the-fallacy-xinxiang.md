@@ -4,7 +4,6 @@ lang: en
 title: "The Kids Who Fell for Rock and Never Left"
 date: 2026-03-30
 categories:
-  - scene report
   - biography 
 tags:
   - Xinxiang
