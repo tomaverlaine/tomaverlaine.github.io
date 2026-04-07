@@ -674,7 +674,6 @@ _Music: "Stanley Should Be Happy" — Silly Function_
 _(End)_
 
 
-<hr>
 <div class="license-note">
   <strong>License Note</strong><br>
 Transcript & description: © original creators, used with permission

@@ -178,6 +178,14 @@ h2 {
   line-height: 1.1em;
 }
 
+.license-note {
+  font-size: 0.8em;
+  color: #666;
+  margin: 2.4em 0;
+  line-height: 1.3;
+  border-bottom: 1px solid #999;
+}
+
 /* ポストナビ */
 .post-nav {
   display: flex;
@@ -190,14 +198,6 @@ h2 {
   text-decoration: none;
   opacity: 0.8;
 }
-
-.license-note {
-  font-size: 0.85em;
-  color: #666;
-  margin-top: 2rem;
-  line-height: 1.3;
-}
-
 
 /* リンク */
 a {
@@ -262,9 +262,9 @@ img {
 
 /* about */
 .social-links {
-  margin-top: 3rem;
+  margin-top: 2.4em;
   display: flex;
-  gap: 1.5rem;
+  gap: 1.5em;
   font-size: 0.95em;
 }
 
