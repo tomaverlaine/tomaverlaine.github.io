@@ -3,19 +3,13 @@ title: "Otaku Density Test: Female Bassist Edition"
 date: 2026-02-14
 lang: en
 categories:
-  - podcast
   - transcript
   - translation 
 tags:
-  - Girl Phone Talk
   - Silly Function
   - Lonely Cookies
   - Peach Illusion
-  - indie rock
   - Wuhan
-  - anime
-  - otaku
-  - bass
 description: Transcript of Girl Phone Talk Vol.7 with Xiao Lang, bassist of the Wuhan indie band Silly Function. They talk about the band, anime, and their lives as otaku, drawing on the shared experiences of all three.
 excerpt: being surrounded by the things you love is what it means to have your dreams come true
 ---
