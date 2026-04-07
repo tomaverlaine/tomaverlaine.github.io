@@ -675,6 +675,7 @@ _(End)_
 
 
 <div class="license-note">
-  <p>License Note<br>
-Transcript & description: © original creators, translated with permission</p>
+  <strong>License Note</strong><br>
+  Introduction: CC BY 4.0<br>
+  Transcript & description: © original creators, translated with permission
 </div>
