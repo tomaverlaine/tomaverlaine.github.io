@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Carsick Cars and Their Era"
+title: "Carsick Cars and Its Era"
 date: 2023-09-03
 categories: biography
-tags: [carsick cars, snapline, beijing, no-wave]
+tags: [carsick cars, snapline, beijing, no beijing]
 lang: en
-excerpt: he posted a message on the university's message board asking if there were any fans of Sonic Youth or Suicide there.
+excerpt: "he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide"
 ---
 
 # {{post.title}}
@@ -53,7 +53,7 @@ This encounter also marked the starting point of his path as a musician. Zhang S
 
 ### How Carsick Cars Came Together
 
-In 2004, Zhang Shouwang enrolled at university fully intending to start a band, only to be dismayed to find that the bands active on campus were exclusively metal. In search of like-minded people, he posted a message on the university's online message board.
+In 2004, Zhang Shouwang enrolled at university fully intending to start a band, only to be dismayed to find that the bands active on campus were exclusively metal. In search of like-minded people, he posted a message on the university's message board.
 
 *"Is anyone here a fan of Sonic Youth or Suicide?"*
 
