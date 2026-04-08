@@ -5,7 +5,7 @@ date: 2023-09-03
 categories: biography
 tags: [carsick cars, snapline, beijing, no beijing]
 lang: en
-excerpt: "he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide"
+excerpt: he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide
 ---
 
 # {{post.title}}
@@ -37,7 +37,7 @@ This is the foundation on which today's Chinese indie rock scene rests. Others m
 Their early signature song "Zhongnanhai" — still immensely popular — meets every condition required of a rock anthem in this country: a memorable melody, a spare arrangement, direct lyrics, and noise in abundance. The title refers to a common Chinese cigarette brand, and when the song was played, audiences whipped themselves into a frenzy and hurled cigarettes at the stage. It is little more than a legend now, but it is a parable that captures exactly what they once were.
 
 
-## The Work and Life of Carsick Cars
+# The Work and Life of Carsick Cars
 
 ### In the Beginning, There Was The Velvet Underground
 
