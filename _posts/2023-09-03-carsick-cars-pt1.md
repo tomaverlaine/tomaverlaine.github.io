@@ -5,8 +5,9 @@ date: 2023-09-03
 categories: biography
 tags: [carsick cars, snapline, beijing, no-wave]
 lang: en
-excerpt: "he posted a message on the university's message board. "Is anyone here a fan of Sonic Youth or Suicide?""
+excerpt: he posted a message on the university's message board asking if there were any fans of Sonic Youth or Suicide there.
 ---
+
 # {{post.title}}
 ## Introduction 
 It almost goes without saying that post-punk forms the bedrock of Chinese indie rock — but a rough map of the terrain is still worth having. It seems useful to start by sketching a broad picture of what post-punk in China actually looks like. To do that properly would mean wading into the history of Chinese rock, and perhaps pausing to explain what post-punk even is. All rather unwieldy. The decision was made to begin with Carsick Cars. As for the genre itself — a rough sense that such a thing exists will do for now.
@@ -151,4 +152,4 @@ These various activities suggest that the members are not devotees of "rock'n'ro
 
 The band's reputation and standing continued to grow, both at home and abroad. However, on 16 November 2010 — the night they supported the Danish noise rock band The Raveonettes — the band announced online that Li Qing and Li Weisi had left. Musical differences were given as the explanation. Exhaustion from the relentless grind of touring and live work may have been a factor; straightforward boredom with the band cannot be ruled out either. The truth remains with the people involved. The two of them turned their attention to Snapline and their own unit, Soviet Pop.
 
-Before long, He Fan of Birdstriking and Banban (Lin Yile) from Boyz & Girl had somehow found their way into the line-up, and Carsick Cars continued. The early story of the band ends here, with the original trio going their separate ways. The golden age of D-22 had not yet faded. Carsick Cars' path through the venues, the label, the overseas tours, it is the very definition of what is that an indie band would be able to do in China. But the ground was already shifting — for the band, for Beijing, for the music industry at large. That chapter will come later. The rest of that story will have to wait.
+Before long, He Fan of Birdstriking and Ben Ben (Lin Yile) from Boyz & Girl had somehow found their way into the line-up, and Carsick Cars continued. The early story of the band ends here, with the original trio going their separate ways. The golden age of D-22 had not yet faded. Carsick Cars' path through the venues, the label, the overseas tours, it is the very definition of what is that an indie band would be able to do in China. But the ground was already shifting — for the band, for Beijing, for the music industry at large. That chapter will come later. The rest of that story will have to wait.
