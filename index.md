@@ -2,6 +2,7 @@
 layout: default
 title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
+<p>Chinese Postpunk Anthology collects materials documenting independent music scenes across China.</p>
 
 <h2>Texts</h2>
 <ul class="zine-list">
