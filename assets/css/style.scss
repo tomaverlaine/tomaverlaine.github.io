@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  max-width: 1024px;
+  max-width: 1080px;
   margin: 24px auto auto 7%;
   font-size: 1.0rem;
   line-height: 1.8;
@@ -80,18 +80,14 @@ img {
   margin-bottom: 1em;
 }
 
-.site-title {
-  font-size: 2.6rem; 
+.site-title h1 {
   font-weight: 300;
   letter-spacing: 0.08em;
   line-height: 1.1em;
   display: block !important;
-  float: none;
-  margin: 0;
-  padding-left: 0;
+  width: 100%;
 }
 html:lang(ja, zh) .site-title {
-  font-size: 2.0rem; 
 }
 
 .site-title a {
