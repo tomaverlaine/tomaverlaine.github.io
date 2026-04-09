@@ -17,7 +17,7 @@
 /* 全体 */
 html {
   font-family: sans-serif;
-  font-family: "RabiqCute", "Inter", "Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
+  font-family: "Inter", "Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
   letter-spacing: 0.02em;
   font-size: 16px; 
 }
@@ -25,8 +25,8 @@ html {
 body {
   max-width: 800px;
   margin: 24px auto auto 12%;
-  font-size: 1.5rem;
-  line-height: 1.85;
+  font-size: 1.0rem;
+  line-height: 1.8;
   letter-spacing: 0.015em;
   padding: 2.0rem 1rem;
   display: block !important;
@@ -134,22 +134,22 @@ html:lang(zh) .zine {
   max-width: 80ch;
 }
 
-  .zine > p {
+  .zine p {
   text-indent: 0;
   margin-bottom: 0.8em;
 }
 
-  .zine > p:nth-of-child(2n) {
+  .zine p:nth-of-child(2n) {
   text-indent: 0.06em;
   margin-bottom: 0.75em;
 }
 
-  .zine > p:nth-of-child(3n) {
+  .zine p:nth-of-child(3n) {
   text-indent: -0.04em;
-  margin-bottom: 0.88em;
+  margin-bottom: 0.78em;
 }
 
-  .zine > p:nth-of-child(5n) {
+  .zine p:nth-of-child(5n) {
   text-indent: 0.1em;
   margin-bottom: 0.72em;
 }
@@ -192,13 +192,13 @@ html:lang(zh) .zine {
 h2 {
   font-size: 1.7em;
   font-weight: 400;
-  margin-top: 2.4em;
+  margin-top: 2.0em;
   margin-left: 0.4em;
 } 
 
 .zine h2 {
   font-size: 1.7em; /* 本文より大きめ */
-  margin-top: 2.4em;
+  margin-top: 2.0em;
   margin-bottom: 0.0em;
   font-weight: 400; 
   margin-left: 0.4em;
@@ -206,7 +206,7 @@ h2 {
 }
 .zine h3 {
  font-size: 1.7em; /* 本文より大きめ */
-  margin-top: 2.4em;
+  margin-top: 2.0em;
   margin-bottom: 0.0em;
   font-weight: 400; 
   margin-left: 0.4em;
@@ -214,7 +214,7 @@ h2 {
 }
 .zine h4 {
  font-size: 1.3em; /* 本文より大きめ */
-  margin-top: 2.4em;
+  margin-top: 2.0em;
   margin-bottom: 0.0em;
   font-weight: 400; 
   margin-left: 0.4em;
@@ -244,7 +244,7 @@ h2 {
 /* index */
 .intro p{
   max-width: 680px;
-  line-height: 1.9;
+  line-height: 1.8;
   margin-left: 10px;
   margin-bottom: 60px;
   font-size: 0.7rem;
