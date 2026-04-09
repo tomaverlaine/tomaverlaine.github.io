@@ -6,7 +6,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 <h2>Texts</h2>
 <ul class="zine-list">
 {% for post in site.posts %}
-  {% if post.lang == "en" and post.categories == "texts" %}
+  {% if post.lang == "en" and post.categories contains "texts" %}
   <li>
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -21,7 +21,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 <h2>Features</h2>
 <ul class="zine-list">
 {% for post in site.posts %}
-  {% if post.lang == "en" and post.categories == "features" %}
+  {% if post.lang == "en" and post.categories contains "features" %}
   <li>
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -36,7 +36,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 <h2>Interviews</h2>
 <ul class="zine-list">
 {% for post in site.posts %}
-  {% if post.lang == "en" and post.categories == "interviews" %}
+  {% if post.lang == "en" and post.categories contains "interviews" %}
   <li>
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -51,7 +51,7 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 <h2>Lists</h2>
 <ul class="zine-list">
 {% for post in site.posts %}
-  {% if post.lang == "en" and post.categories == "lists" %}
+  {% if post.lang == "en" and post.categories contains "lists" %}
   <li>
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
