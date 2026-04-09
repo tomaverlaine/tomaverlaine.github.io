@@ -4,11 +4,12 @@ lang: en
 title: "The Kids Who Fell for Rock and Never Left"
 date: 2026-03-30
 categories:
-  - biography 
+  - texts 
 tags:
   - Xinxiang
   - The Fallacy
 excerpt: jagged, dissonant textures and sudden bursts of noise, chaotic and strangely beautiful, something you have never heard before
+summary: Traces the local rock scene’s multi-generational legacy through a jagged, edgy band.
 ---
 
 ## Introduction 

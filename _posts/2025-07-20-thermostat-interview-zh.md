@@ -4,7 +4,8 @@ title: "专访北京独立流行计划恒温人员Thermostat"
 date: 2025-07-20
 author: Toma Verlaine
 excerpt: There's a lot of emotion on the Daria EP, and overall it's a mood change from down to positive
-categories: [interview, music, china]
+summary: A look behind the scenes of a post-Covid personal project, crafting layered and immersive soundscapes.
+categories: [interviews]
 tags: [thermostat, indie pop, dream pop, shoegaze, beijing, lo-fi]
 lang: zh
 ref: thermostat

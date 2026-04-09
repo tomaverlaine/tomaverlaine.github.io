@@ -4,13 +4,14 @@ date: 2026-02-14
 lang: en
 categories:
   - transcript
-  - translation 
+  - translation
+  - interviews
 tags:
   - Silly Function
   - Lonely Cookies
   - Peach Illusion
   - Wuhan
-description: Transcript of Girl Phone Talk Vol.7 with Xiao Lang, bassist of the Wuhan indie band Silly Function. They talk about the band, anime, and their lives as otaku, drawing on the shared experiences of all three.
+summary: A podcast transcript of Girl Phone Talk discussing the band, anime, and shared otaku experiences.
 excerpt: being surrounded by the things you love is what it means to have your dreams come true
 ---
 Girl Phone Talk is a podcast by Zoo-chan of Lonely Cookies and Quamquan of Peach Illusion. In the seventh episode, they welcome Xiao Lang, bassist of the Wuhan indie rock band Silly Function, for a talk titled "Otaku Level Check" or "Otaku Density Test," covering the band, anime, daily life, and more.

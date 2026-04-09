@@ -1,6 +1,6 @@
 ---
 layout: post
-Lang: en
+lang: en
 title: "Interview with Aya (Instinkto Industrio)"
 excerpt: does this really have that kind of broad appeal? we're not entirely sure we understand it ourselves
 date: 2025-05-13
