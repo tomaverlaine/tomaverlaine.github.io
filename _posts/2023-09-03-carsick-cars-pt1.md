@@ -9,7 +9,6 @@ summary: Traces an unassuming band’s involvement in shaping China’s indie ro
 excerpt: he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide
 ---
 
-# {{post.title}}
 ## Introduction 
 It almost goes without saying that post-punk forms the bedrock of Chinese indie rock — but a rough map of the terrain is still worth having. It seems useful to start by sketching a broad picture of what post-punk in China actually looks like. To do that properly would mean wading into the history of Chinese rock, and perhaps pausing to explain what post-punk even is. All rather unwieldy. The decision was made to begin with Carsick Cars. As for the genre itself — a rough sense that such a thing exists will do for now.
 
