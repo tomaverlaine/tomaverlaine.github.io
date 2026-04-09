@@ -49,13 +49,13 @@ Exactly. But once you're trying to actually play songs together, different termi
 
 I came into the Instinkto Industrio situation with the same low expectations, honestly.
 
-**Low expectations.**
+**Low expectations...**
 
 But when I actually showed up to practice, even if the playing was a bit rough around the edges, I could tell they were genuinely trying to make something interesting. The love of music was real, and so was the drive to get better. When I said something felt off, they actually listened and tried to understand. That was different.
 
 **Turned out they were more legit than they looked. Was that first practice for *The Seagull Walz*?**
 
-By that point, all the tracks from *Shìjì Dà Tínɡdiàn* — the debut album, released August 2023 — were already done, so it was more like I just started improvising along to what they were playing and seeing what happened. It clicked, and the feeling was like, "okay, this could work." Then they handed me demo recordings and lyrics and said, "think about where the flute could go in these." And from there it was just full-speed rehearsals.
+By that point, all the tracks from *Blackout of the Century* — the debut album, released August 2023 — were already done, so it was more like I just started improvising along to what they were playing and seeing what happened. It clicked, and the feeling was like, "okay, this could work." Then they handed me demo recordings and lyrics and said, "think about where the flute could go in these." And from there it was just full-speed rehearsals.
 
 **That's a fast turnaround. Would this have been around 2022?**
 
@@ -69,7 +69,7 @@ It does catch people off guard. In China, the band often gets described as "very
 
 **That's new to me. I'd always assumed it was more chanson or European folk.**
 
-From our end, we're not consciously thinking about Soviet music at all. We actually play *Libertango* — the Astor Piazzolla piece — as pre-show music. If anything, what we're more conscious of is dance rhythms. There's a lot of waltz, and something like *Tǔ'ěrqí Dēng* leans more tango.
+From our end, we're not consciously thinking about Soviet music at all. We actually play *Libertango* — the Astor Piazzolla piece — as pre-show music. If anything, what we're more conscious of is dance rhythms. There's a lot of waltz, and something like *The Turkish Light* leans more tango.
 
 **Stateless world music, maybe?**
 
@@ -199,11 +199,13 @@ There really are. I once met a musician from one of China's ethnic minority grou
 
 He apparently actually plays different ones for different things. Terrifying.
 
+There's a Twitter account I follow that posts clips of elders from rural China — dancing, playing instruments I've never seen before. It feels like a window into where a lot of this music comes from. Music as just part of everyday life.
+
+**A Beijing musician once told me that in Guizhou people from the ethnic minority communities there sing everywhere, all the time.**
+
+That tracks. Music and dance are really central to how those communities live. And maybe because of that, a lot of those folks have incredible natural rhythm.
+
 ## Yunnan's Ethnic Minorities and KAWA
-
-**I follow a Twitter account that posts clips of elders from rural China — dancing, playing instruments I've never seen before. It feels like a window into where a lot of this music comes from. Music as just part of everyday life.**
-
-Among ethnic minority communities, that really is the case. Music and dance are central to how people live. And maybe because of that, a lot of those folks have incredible natural rhythm.
 
 **Speaking of which — KAWA are apparently doing a Japan tour. They're also from Yunnan, from an ethnic minority background. Reggae isn't really my thing, if I'm honest.**
 
@@ -217,7 +219,7 @@ Seriously, use this as an excuse to check them out.
 
 **The nationwide tour dates were just announced. Some of those venues are pretty sizable.**
 
-The Shanghai venue — VAS ear — is on the larger side for a live house. Nanjing too, I think (1701 Live House).
+The Shanghai venue (VAS ear) is on the larger side for a live house. Nanjing too, I think (1701 Live House).
 
 **It speaks to how well-regarded the band is. Though I'll admit, from the outside, I find it a little surprising.**
 
@@ -237,13 +239,13 @@ More recently, people have started dancing waltzes in the crowd. I'm up there pl
 
 Exactly. We also tend to play better live than in the studio — the recordings can end up a bit polished and tidy. The live energy is different.
 
-**Building a fanbase through live shows feels like the right approach for an indie band. Though it sounds like you don't go out of your way to promote yourselves online, either.**
+**Building a fanbase through live shows feels like the right approach for an indie band.**
 
 We're really not good at promotion. The members all have Instagram and Xiaohongshu accounts, but we rarely post about the band. None of us are great at that side of things.
 
-**bokai's online presence is mostly motorcycle photos and drinking stories.**
+**What with bokai's motorcycle photos and your drinking stories, it's not exactly a PR machine.**
 
-At a Maybe Mars event, they made a promotional video where all the other bands talked properly about their music. bokai just had extended footage of himself riding his motorcycle.
+At a Maybe Mars event, each band made their own promo video. Everyone else talked properly about their music. bokai just had extended footage of himself riding his motorcycle.
 
 **What is he doing…**
 
@@ -265,7 +267,7 @@ They're quite dense — a lot of layered metaphors. Even my Chinese isn't at a l
 
 **There's a lot of classical Chinese in there too, from what I can tell. Stray classical allusions here and there.**
 
-You look something up and it turns out to be a chengyu or a literary reference. It's like, okay, this person is actually quite educated.
+Sometimes you can't quite parse a line, look it up, and it's a classical idiom. You think — oh, this person actually knows things.
 
 **It goes over my head. I get a faraway look.**
 
@@ -277,13 +279,15 @@ I do get flustered, but I find new things interesting at a pretty basic level, s
 
 **…Is that what Instinkto Industrio means as a name?**
 
-Oh no, now you've given it a whole new meaning.
+Oh no, now I've given it a whole new meaning.
 
 **The Esperanto, by the way — the band name. I originally assumed it was Latin. It has a certain erudite ring.**
 
 It really does sound smart and cool, doesn't it. I think bokai came up with it. Feels like him.
 
-**People can surprise you. We've been talking a while, and I'm sure I missed some things — but I think that's a good place to wrap up.**
+**Turns out you can't judge by appearances.**
+
+**We've been talking a while, and I'm sure I missed some things — but I think that's a good place to wrap up.**
 
 Sure! Thanks so much.
 
