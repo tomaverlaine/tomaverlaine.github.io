@@ -4,7 +4,8 @@ Lang: en
 title: "Interview with Aya (Instinkto Industrio)"
 excerpt: does this really have that kind of broad appeal? we're not entirely sure we understand it ourselves
 date: 2025-05-13
-Categories: interview
+Categories: interviews
+summary: A conversation with a Japanese flutist on the people behind underground indie rock.
 tags: [kunming, flute]
 ---
 

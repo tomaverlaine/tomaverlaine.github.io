@@ -2,9 +2,10 @@
 layout: post
 title: "Carsick Cars and Its Era"
 date: 2023-09-03
-categories: biography
+categories: texts
 tags: [carsick cars, snapline, beijing, no beijing]
 lang: en
+summary: Traces an unassuming band’s involvement in shaping China’s indie rock scene.
 excerpt: he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide
 ---
 
