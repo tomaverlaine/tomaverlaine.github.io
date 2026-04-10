@@ -2,7 +2,6 @@
 layout: default
 title: "CHINESE POSTPUNK ANTHOLOGY"
 ---
-<p>We keep a gathering of records, loosely sewn from scattered remnants, not yet pressed into a shape.</p>
 
 <h2>Texts</h2>
 <ul class="zine-list">

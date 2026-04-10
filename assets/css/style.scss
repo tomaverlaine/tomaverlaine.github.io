@@ -22,12 +22,10 @@ html {
 }
 
 body {
-  max-width: 1080px;
-  margin: 24px auto auto 7%;
   font-size: 1.0rem;
   line-height: 1.8;
   letter-spacing: 0.015em;
-  padding: 2.0rem 1rem;
+
   display: block !important;
 }
 
@@ -69,6 +67,7 @@ img {
 
 .page-content {
     max-width: 100%;
+    padding-left: clamp(0.5rem, 5vw, 32vw);
 }
 
 
@@ -76,11 +75,14 @@ img {
 .site-header {
   all: unset;
   display: block !important;
+  font-size: 0.8rem;
+  line-height:1.0em;
   margin-top: 0px;
   margin-bottom: 1em;
 }
 
-.site-title h1 {
+h1 {
+  font-size: clamp(2.3rem, 5vw, 3.4rem);
   font-weight: 300;
   letter-spacing: 0.08em;
   line-height: 1.1em;
