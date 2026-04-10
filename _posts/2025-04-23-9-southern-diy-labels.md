@@ -19,11 +19,9 @@ Below is an introduction to some of the more representative indie labels from th
 
 Strictly speaking, calling this a "label" would be a stretch. "Fun doujin circle" is probably more accurate. Music collective works too.
 
-Around 2006, it was organized around two people who met online — Xiao Zhao and Xiao Ji — with a fluid cast of other members drifting in and out as time allowed, forming bands, making fanzines, putting on shows, hanging around and talking. The style was eclectic in the most cheerful sense: hardcore punk, shoegaze, psychedelic rock, hip-hop — whatever seemed like a good time, they'd try it. Getting a clear picture of the full scope of what they did is pretty much impossible. They probably wouldn't care either way.
+Around 2006, it was organized around two people who met online — Xiao Zhao and Siugat — with a fluid cast of other members drifting in and out as time allowed, forming bands, making fanzines, putting on shows, hanging around and talkin' 'bout rock music. The style was eclectic in the most cheerful sense: hardcore punk, shoegaze, psychedelic rock, hip-hop — whatever seemed like a good time, they'd try it. Getting a clear picture of the full scope of what they did is pretty much impossible. They probably wouldn't care either way.
 
 Xiao Zhao, the closest thing to a leader the group had, stepped back around 2015 and activity wound down. But their DIY spirit spread widely across the south through their de facto successor, 琪琪音像 Qiii Snacks Records.
-
----
 
 ## 无聊制造 Boring Productions (Shenzhen)
 
@@ -36,8 +34,6 @@ The label's founder, Jovi, has made a habit of showing anyone who'll sit still l
 **Key artists:** Atta Girl, Sound and Fury, Chestnut Bakery, Milkmustache
 
 [Bandcamp](https://boringproductions.bandcamp.com/)
-
----
 
 ## Luuv Label (Shanghai)
 
@@ -62,8 +58,6 @@ There's a physical store in Guangzhou called Portal, selling media and merch, wi
 
 [Bandcamp](https://qiiisnacksrecords.bandcamp.com/)
 
----
-
 ## 生煎唱片 SJ Records (Shanghai)
 
 Alongside the East Asia Shoegaze Festival, another incubator of the southern scene was the Express tour series. 
@@ -80,8 +74,6 @@ Worth adding: they too started out sharing the ethos of Sarah Records — the id
 
 [Instagram](https://www.instagram.com/shengjianrecords)
 
----
-
 ## Letter Records (Shanghai)
 
 Nick, one of SJ Records' co-founders, eventually felt the label drifting toward commercialization and left. In 2019, together with Jueer (of Pocari Sweet), he started Letter Records — a new independent label operating on more personal terms.
@@ -91,8 +83,6 @@ Things got busy, time and energy for running a label ran short, and the label ha
 **Key artists:** 2D-Foil(二向箔), All Romantic Days, Sheep's Bed, Siyu
 
 [Bandcamp](https://letterrecord.bandcamp.com)
-
----
 
 ## 萤石唱片 Fluorite Records (Guangzhou)
 
@@ -104,8 +94,6 @@ They kicked things off with Pocari Sweet(波卡利甜)'s comeback release and ha
 
 [Instagram](https://www.instagram.com/fluoriterecords) · [YouTube](http://www.youtube.com/@FluoriteRecords)
 
----
-
 ## 雨模様 Amemoyo (location unknown)
 
 A net label that launched in 2024, focused specifically on shoegaze from the newer generation of artists across the country. They've been compiling their picks onto a series called *Kind of Shoegaze*.
@@ -115,8 +103,6 @@ Since starting, they've kept up a steady release pace across vinyl, cassette, an
 **Key artists:** 哲学思潮, Muse Deconstruct （缪斯解构）, Strawberry Lust
 
 [Bandcamp](https://amemoyo.bandcamp.com/) · [Instagram](https://www.instagram.com/amemoyo_official)
-
----
 
 ## 小动物唱片 Small Animals Records (Shenzhen)
 
