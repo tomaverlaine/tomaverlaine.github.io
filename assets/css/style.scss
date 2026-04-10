@@ -81,7 +81,7 @@ img {
   font-size: 0.8rem;
   line-height:1.0em;
   margin-top: 0px;
-  margin-bottom: 1em;
+  margin-bottom: 2.5em;
 }
 
 .site-title {
@@ -95,7 +95,7 @@ img {
 }
 .intro {
   font-size: 1em;
-  margin: 0 0.4em 0 0.8em;
+  margin: 0 0.4em 0 0.4em;
 }
 
 html:lang(ja, zh) .site-title {
@@ -109,11 +109,11 @@ html:lang(ja, zh) .site-title {
 /* contents */
 
 .zine {
-  max-width: 68ch;
-  margin: 0 2em auto 4%;
+  max-width: 72ch;
+  margin: 0 1.4em auto 3%;
 }
 html:lang(ja) .zine {
-  max-width: 72ch;
+  max-width: 74ch;
 }
 html:lang(zh) .zine {
   max-width: 74ch;
@@ -199,7 +199,6 @@ h2 {
 
 .post-nav a {
   text-decoration: none;
-  opacity: 0.8;
 }
 
 /* index */
@@ -209,22 +208,22 @@ h2 {
   padding: 0;
 }
 
-.zine-list li {
-  font-size: 1.1em; 
+.posts {
+  font-size: 1em; 
   line-height: 1;
+  margin-botto: 0.3em;
 }
 
 
 .zine-list a {
-  font-size: 1.0em;
   text-decoration: none;
   border-bottom: none;
 }
 
 .post-summary {
-  margin: 0 0 1.4em inherit;
-  font-size: 0.8em;
-  line-height:1.3em;
+  margin: 0 0 1.4em 2em;
+  font-size: 0.9em;
+  line-height:1.0em;
 }
 
 
@@ -241,9 +240,8 @@ h2 {
 .site-footer {
   margin-top: 80px;
   margin-bottom: 40px;
-  font-size: 0.8em;
+  font-size: 0.7em;
   color: #000; 
-  opacity: 0.6;
 }
 
 .site-footer a {

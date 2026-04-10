@@ -9,7 +9,7 @@ tags:
   - Xinxiang
   - The Fallacy
 excerpt: jagged, dissonant textures and sudden bursts of noise, chaotic and strangely beautiful, something you have never heard before
-summary: Traces the local rock scene’s multi-generational legacy through a jagged, edgy band.
+summary: Traces Xinxiang’s multi-generational legacy through a jagged, edgy band.
 ---
 
 ## Introduction 
