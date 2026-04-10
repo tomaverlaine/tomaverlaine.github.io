@@ -23,9 +23,9 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 {% for post in site.posts %}
   {% if post.lang == "en" and post.categories contains "features" %}
   <li>
-    <p>
+    <div class="posts">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </p>
+    </div>
     <p class="post-summary">{{ post.summary }}</p>
   </li>
   {% endif %}
@@ -38,9 +38,9 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 {% for post in site.posts %}
   {% if post.lang == "en" and post.categories contains "interviews" %}
   <li>
-    <p>
+    <div class="posts">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </p>
+    </div>
     <p class="post-summary">{{ post.summary }}</p>
   </li>
   {% endif %}
@@ -53,9 +53,9 @@ title: "CHINESE POSTPUNK ANTHOLOGY"
 {% for post in site.posts %}
   {% if post.lang == "en" and post.categories contains "lists" %}
   <li>
-    <p>
+    <div class="posts">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </p>
+    </div>
     <p class="post-summary">{{ post.summary }}</p>
   </li>
   {% endif %}
