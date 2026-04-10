@@ -67,6 +67,7 @@ img {
 
 .page-content {
     max-width: 100%;
+    padding-top:1.2rem;
     padding-left: clamp(0.5rem, 5vw, 32vw);
 }
 
@@ -82,7 +83,7 @@ img {
 }
 
 .site-title {
-  font-size: clamp(2.3rem, 5vw, 3.4rem);
+  font-size: clamp(2.3rem, 7vw, 3.4rem);
   font-weight: 300;
   letter-spacing: 0.08em;
   line-height: 1.1em;
@@ -91,7 +92,7 @@ img {
   margin-bottom: 0;
 }
 .intro {
-  font-size: 0.8em;
+  font-size: 1em;
   margin: 0 0.4em 0 0.8em;
 }
 
@@ -110,31 +111,12 @@ html:lang(ja, zh) .site-title {
   margin: 0 2em auto 4%;
 }
 html:lang(ja) .zine {
-  max-width: 77ch;
+  max-width: 72ch;
 }
 html:lang(zh) .zine {
-  max-width: 80ch;
+  max-width: 74ch;
 }
 
-  .zine p {
-  text-indent: 0;
-  margin-bottom: 0.8em;
-}
-
-  .zine p:nth-of-child(2n) {
-  margin: 0.06em;
-  margin-bottom: 0.75em;
-}
-
-  .zine p:nth-of-child(3n) {
-  margin: -0.04em;
-  margin-bottom: 0.78em;
-}
-
-  .zine p:nth-of-child(5n) {
-  margin: 0.1em;
-  margin-bottom: 0.72em;
-}
 
 .post-header {
   margin-bottom: 0;
@@ -142,7 +124,7 @@ html:lang(zh) .zine {
 
 .post-title {
   font-size: 2.4em;
-  font-weight: 400;
+  font-weight: 4600;
   line-height: 1;
   letter-spacing: 0.04em;
   margin-top: 0.8em; 
@@ -151,11 +133,6 @@ html:lang(zh) .zine {
   margin-left: -10px;
 }
 
-.post-date {
-  font-size: 0.9em;
-  opacity: 0.6;
-  margin: 0;
-}
 
 .lang-switch {
   font-size: 0.8em;
@@ -165,7 +142,9 @@ html:lang(zh) .zine {
 
 
 /* 本文 */
-.post-content p {
+.zine p {
+  padding-left: 1.1em;
+
 }
 
 /* 見出し */
@@ -180,7 +159,7 @@ h2 {
   font-size: 1.4em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 60; 
+  font-weight: 600; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
@@ -188,7 +167,7 @@ h2 {
  font-size: 1.4em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 60; 
+  font-weight: 600; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
