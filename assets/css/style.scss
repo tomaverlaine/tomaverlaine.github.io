@@ -25,7 +25,7 @@ body {
   font-size: 1.0rem;
   line-height: 1.8;
   letter-spacing: 0.015em;
-
+  margin: 0;
   display: block !important;
 }
 
@@ -81,7 +81,7 @@ img {
   margin-bottom: 1em;
 }
 
-h1 {
+.site-title {
   font-size: clamp(2.3rem, 5vw, 3.4rem);
   font-weight: 300;
   letter-spacing: 0.08em;
@@ -89,6 +89,12 @@ h1 {
   display: block !important;
   width: 100%;
 }
+.intro {
+  font-size: 0.8em;
+  margin: 0 0.4em 0 0.8em;
+  display: block !important;
+}
+
 html:lang(ja, zh) .site-title {
 }
 
@@ -164,30 +170,30 @@ html:lang(zh) .zine {
 
 /* 見出し */
 h2 {
-  font-size: 1.9em;
-  font-weight: 400;
+  font-size: 1.4em;
+  font-weight: 600;
   margin-top: 2.0em;
   margin-left: -0.4em;
 } 
 
 .zine h2 {
-  font-size: 1.9em; /* 本文より大きめ */
+  font-size: 1.4em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 400; 
+  font-weight: 60; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
 .zine h3 {
- font-size: 1.9em; /* 本文より大きめ */
+ font-size: 1.4em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 400; 
+  font-weight: 60; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
 .zine h4 {
- font-size: 1.7em; /* 本文より大きめ */
+ font-size: 1.2em; /* 本文より大きめ */
   margin-top: 2.0em;
   margin-bottom: 0.0em;
   font-weight: 400; 
@@ -216,15 +222,6 @@ h2 {
 }
 
 /* index */
-.intro p{
-  max-width: 680px;
-  line-height: 1.8;
-  margin-left: 10px;
-  margin-bottom: 60px;
-  font-size: 0.7rem;
-  opacity: 0.7;
-  display: block !important;
-}
 
 .zine-list {
   list-style: none;
