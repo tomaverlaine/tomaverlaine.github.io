@@ -16,7 +16,7 @@
 
 /* 全体 */
 html {
-  font-family: "Inter", "Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
+  font-family: "Inter",  "Helvetica Neue", Arial,"Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
   letter-spacing: 0.02em;
   font-size: 16px; 
 }
@@ -31,14 +31,16 @@ body {
 
 html:lang(ja) body {
   font-size: 1rem;
-  font-family:  "Inter" ,"Noto Sans JP", "Hiragino Sans", sans-serif;
+font-family:
+  -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Noto Sans JP", "Noto Sans SC", "Hiragino Sans", "PingFang SC", "Yu Gothic UI", "Meiryo", "Microsoft YaHei", sans-serif;
+  
   letter-spacing: 0.02em;
   line-height: 1.9em;
 }
 
 html:lang(zh) body {
   font-size: 1rem;
-  font-family:  "Inter", "Noto Sans SC", "PingFang SC", "Inter", sans-serif;
+  font-family: "Inter","Helvetica Neue", Arial, "Noto Sans SC", "PingFang SC", sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
 }
