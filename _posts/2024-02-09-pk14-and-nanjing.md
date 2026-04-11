@@ -1,11 +1,11 @@
 ---
 layout: post
-title: P.K.14 and the Post-Punk City of 1990s Nanjing
+title: "P.K.14 and the Post-Punk City of 1990s Nanjing"
 date: 2024-02-09
 lang: en
 categories: texts 
-summary: The story behind P.K.14, China's first post-punk band — how they helped establish indie rock in a country, and the 1990s Nanjing rock circle that called its own city a surrealist metropolis.
-excerpt: you can see how thoroughly surrealism and Dadaism had permeated their sensibility. They defined their city, Nanjing, as a "surrealist metropolis. 
+summary: The story behind P.K.14, China's first post-punk band — how they helped establish indie rock in a country where the concept barely existed, and the 1990s Nanjing rock circle that called its own city a surrealist metropolis.
+excerpt: 'you can see how thoroughly surrealism and Dadaism had permeated their sensibility. They defined their city, Nanjing, as a "surrealist metropolis."'
 ---
 
 The claim that post-punk lies at the foundation of Chinese indie rock has more than a little truth to it. Chinese rock history, which opened in the 1980s, passed through a 1990s dominated by metal and hard rock before undergoing what can only be described as a tectonic shift at the turn of the century. The story resists oversimplification, but the band that deserves attention as its source is P.K.14, formed in 1997. China's first post-punk band began their life in Nanjing before later taking root in Beijing, establishing rock as an art form in the capital. In other words, it suggests that in China, the very concept of indie rock began with post-punk.
@@ -45,7 +45,7 @@ From within this milieu emerged P.K.14 in 1997 — the first band in the country
 ### A Literary Youth's Unlikely Encounter with Hard Rock
 Yang Haisong, a literary-minded young man who favored Faulkner and Hemingway, was one member of this subculture. His taste for counterculture meant his favorite musicians naturally included Bob Dylan, Woody Guthrie, and Jim Morrison — a list that was largely shared across the small, close-knit Nanjing rock community of the time. As of 1994, he aspired to be a folk singer in the mold of Bob Dylan, and his distinctive vocal style may well trace back to that.
 
-Around 1993, at around age twenty, he heard Tang Dynasty  and understood that his destiny lay in rock music. He started writing three-chord songs on acoustic guitar, dropped out of university, and threw himself into creation while living frugally. Somewhere in there — it's unclear whether literature or music came first — he fell under the spell of Beat literature, devoured books on Zen, Taoism, and existentialist thought, and set off on a wandering journey through Xinjiang. He later recalled this period as his hippie years.![[]]
+Around 1993, at around age twenty, he heard Tang Dynasty  and understood that his destiny lay in rock music. He started writing three-chord songs on acoustic guitar, dropped out of university, and threw himself into creation while living frugally. Somewhere in there — it's unclear whether literature or music came first — he fell under the spell of Beat literature, devoured books on Zen, Taoism, and existentialist thought, and set off on a wandering journey through Xinjiang. He later recalled this period as his hippie years.
 ### The Encounter with Joy Division, and the Formation of P.K.14
 
 Between 1995 and 1996, Yang Haisong formed several bands and continued performing with other local groups in the basement shelters of apartment buildings around the city. No recordings survive, but they were probably punk-leaning. The wave of punk rock had already reached Nanjing around 1995, and many young people who had been devoted to folk music cut their long hair and plunged into the punk scene.
@@ -68,13 +68,13 @@ A demo recorded in Nanjing in 2000 survives from the band's Beijing period. Drum
 
 Crossing into 2001, the band began work on their debut album. Some sources mention the involvement of Canadian indie label Empty Egg, but whether that label actually existed is doubtful. I searched for a while and found no trace of it. There are signs that a Nanjing subculture circle had published books under the Empty Eggs name, and someone in the circle had probably studied in Canada.
 
-After the first run was burned to CD-R, a pressed CD _turn right immediately after up stair_ (_上楼就往左拐_) was released on Sub Jam, a label run by rock critic Yan Jun (颜峻). The publicly available samples run to twelve tracks, while the pressed version has nine. RAR file were apparently once available on the Sub Jam website, but the links are now dead — though it's probably the same recording.
+After the first run was burned to CD-R, a pressed CD _turn right immediately after up stair_ (_上楼就往左拐_) was released on Sub Jam, a label run by rock critic Yan Jun (颜峻). The publicly available samples run to twelve tracks, while the pressed version has nine. RAR file was apparently once available on the Sub Jam website, but the links are now dead — though it's probably the same recording.
 
 The debut album was well received at the time and announced to audiences in Beijing and beyond that a new wave had arrived. Yang Haisong's own liner notes are included, with a warm account of the recording sessions — and the full lyrics for every track, which is a nice touch. 
 ## The Public Kingdom, Thereafter
 The band relocated fully to Beijing and went through significant lineup changes. From 2002 onward, the lineup stabilized and their artistic vision grew sharper.
 
-Having formally signed with Modern Sky, the band released their second album _ (_Who Who Who and Who Who Who (谁谁谁和谁谁谁_) in 2004. It was also their first recording made in a proper studio, and could reasonably be considered their true debut. The album secured their reputation as the finest indie rock band in the country. It's worth noting in passing that _快_ (_Fast_), one of their signature tracks on this album, is a cover of a song by Seven, Eight o'clock (七八点 Qī Bā Diǎn), a band they had run alongside during their Nanjing years.
+Having formally signed with Modern Sky, the band released their second album _Who Who Who and Who Who Who (谁谁谁和谁谁谁_ in 2004. It was also their first recording made in a proper studio, and could reasonably be considered their true debut. The album secured their reputation as the finest indie rock band in the country. It's worth noting in passing that _快_ (_Fast_), one of their signature tracks on this album, is a cover of a song by Seven, Eight o'clock (七八点 Qī Bā Diǎn), a band they had run alongside during their Nanjing years.
 ## What P.K.14 Meant
 In a China where playing rock music was widely considered a student pastime, P.K.14 stands as one of the rare domestic bands that could hold its own against British and American alternative rock. They can be understood as having carved out a space for indie rock between the hobbyist amateur band and the pop-rock chart act. The post-punk style they introduced — and the fierce drive toward self-expression at its core — combined with their uncompromising DIY approach, must have been a tremendous inspiration for young musicians.
 
