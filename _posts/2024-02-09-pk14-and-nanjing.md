@@ -4,10 +4,9 @@ title: P.K.14 and the Post-Punk City of 1990s Nanjing
 date: 2024-02-09
 lang: en
 summary: The story behind P.K.14, China's first post-punk band — how they helped establish indie rock in a country, and the 1990s Nanjing rock circle that called its own city a surrealist metropolis.
-excerpt: you can see how thoroughly surrealism and Dadaism had permeated their sensibility
+excerpt: you can see how thoroughly surrealism and Dadaism had permeated their sensibility. They defined their city, Nanjing, as a "surrealist metropolis. 
 ---
 
-## Introduction 
 The claim that post-punk lies at the foundation of Chinese indie rock has more than a little truth to it. Chinese rock history, which opened in the 1980s, passed through a 1990s dominated by metal and hard rock before undergoing what can only be described as a tectonic shift at the turn of the century. The story resists oversimplification, but the band that deserves attention as its source is P.K.14, formed in 1997. China's first post-punk band began their life in Nanjing before later taking root in Beijing, establishing rock as an art form in the capital. In other words, it suggests that in China, the very concept of indie rock began with post-punk.
 
 ## The Dawn of Chinese Rock and Post-Punk
