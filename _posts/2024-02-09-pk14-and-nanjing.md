@@ -1,6 +1,6 @@
 ---
 layout: post
-title: P.K.14 and the Post-Punk City of 1990s Nanjing
+title: "P.K.14 and the Post-Punk City of 1990s Nanjing"
 date: 2024-02-09
 lang: en
 categories: texts
@@ -9,6 +9,8 @@ summary: The story behind P.K.14, China's first post-punk band — how they help
 
 ## Introduction 
 The claim that post-punk lies at the foundation of Chinese indie rock has more than a little truth to it. Chinese rock history, which opened in the 1980s, passed through a 1990s dominated by metal and hard rock before undergoing what can only be described as a tectonic shift at the turn of the century. The story resists oversimplification, but the band that deserves attention as its source is P.K.14, formed in 1997. China's first post-punk band began their life in Nanjing before later taking root in Beijing, establishing rock as an art form in the capital. In other words, it suggests that in China, the very concept of indie rock began with post-punk.
+
+
 ## The Dawn of Chinese Rock and Post-Punk
 Chinese rock in the 1980s took shape by modelling itself on contemporary Western popular music, and it reflected new wave from the very start. Cui Jian, "the father of Chinese rock," was a devoted Sting listener from the beginning and developed a deep affinity for reggae. Dou Wei, singer of the hard rock band Black Panther, was acutely attuned to the British and American alternative rock of his day; after leaving the band, he consciously embraced a gothic rock aesthetic, and his 1994 solo album Black Dream_ even has some reggae in it.
 
