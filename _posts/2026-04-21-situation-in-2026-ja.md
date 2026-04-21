@@ -5,7 +5,7 @@ date: 2026-04-14
 categories: [lists]
 tags: [introduction]
 summary: "現在の中国インディーロックの地形を測る基準点となる10のバンド"
-excerpt : "インディーロックは少数派の音楽であり、商業的に最適化された主流音楽とは違った方向へ進化する。"
+excerpt : "インディーロックは少数派の音楽であり、商業的に最適化された主流音楽とは違った方向へ進化する"
 lang: ja
 ref: situation2026
 ---
