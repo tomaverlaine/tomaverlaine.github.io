@@ -61,7 +61,7 @@ I think in a city large enough, you can always find your favorite cultural niche
 
 **Toma: The use of drum machines and looping rhythms brings to mind old video game and feels like a conscious departure from rock's dynamism, creating more introspective and personal vibe. It seems to share something with German progressive rock and the psychedelic roots of dream pop and shoegaze.**
 
-**Roubing:** Yes, besides indie pop, dream pop and such genres, I often listen to some good drum machine music including African rhythms, and the types of krautrock you mentioned. The repetitive, mechanical rhythms are more fascinating to me.
+**Roubing:** Yes, besides indie pop, dream pop and such genres, I often listen to some drum music including African rhythms, and the types of krautrock you mentioned. The repetitive, mechanical rhythms are more fascinating to me.
 
 **Toma: Listening to Thermostat, sometimes reminded me of Brian Eno. Even though I only know *Another Green World*, I've read that he's considered a pioneer of ambient music.**
 
@@ -94,6 +94,6 @@ I don't really enjoy live performances, but some of the smaller local showcases 
 
 Also, I'll be finishing the physical version of Daria this year as soon as possible!
 
-**Toma: By the way, I was pleased to see Thermostat featured on chainhana's *Such a World*, alongside several other indie musicians. How did that collaboration come about? If there's a story behind it, or anything interesting from the process, you'd be very welcome to share it!**
+**Toma: By the way, I was pleased to see Thermostat featured on chainhaha's *Such a World*, alongside several other indie musicians. How did that collaboration come about? If there's a story behind it, or anything interesting from the process, you'd be very welcome to share it!**
 
 **Roubing:** This piece is the final song on her first full length album, *[Za Nang Zz Nang](https://chainhaha.bandcamp.com/album/za-nang-zz-nang)*. The demo resembles Chinese children's song. Having studied vocal performance, she didn't think her voice was rich enough on its own, so she gathered her friends to sing along, then she edited and spliced it. I was lucky enough to be one of them. I'm so proud to say that I nailed the part I sang in just one take.

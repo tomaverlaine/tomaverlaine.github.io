@@ -3,7 +3,7 @@ layout: post
 title: "A Rough Guide to Chinese Indie Rock: Ten Angles In"
 date: 2026-04-14
 categories: [lists]
-tags: [introduction]
+tags: []
 summary: "10 bands that are the reference points for measuring the current situation of Chinese indie rock"
 excerpt : "mapping the current terrain of Chinese indie rock — each one a pointer toward the broader landscape"
 lang: en
