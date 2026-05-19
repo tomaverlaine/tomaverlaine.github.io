@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: zh
 title: "为什么一个日本人在记录中国独立音乐"
 date: 2026-05-19
 categories:
@@ -9,8 +9,9 @@ tags:
   - FAZI
   - Hiperson
   - yourboyfriendsucks
-excerpt: 用日語記录中国独立摇滚，从后朋場景到DIY写作
+excerpt: 用日语记录中国独立摇滚，后朋克场景到DIY写作
 summary: 
+ref: discover
 ---
 
 几年来，我一直在做一个叫 Chinese Postpunk Anthology 的个人项目。用日语介绍中国独立摇滚——这个主题在日语圈几乎不存在。新专辑、乐队、场景。没人让我这么做。我跟音乐行业和乐评圈毫无关系，只是个普通乐迷。
