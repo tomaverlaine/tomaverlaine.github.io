@@ -9,7 +9,6 @@ tags:
   - FAZI
   - Hiperson
   - yourboyfriendsucks
-excerpt: 
 summary: Why I keep writing about Chinese indie music 
 ref: discover
 ---
@@ -67,7 +66,7 @@ Having worked through most of what English-language sources had to offer, I bega
 
 What emerged on Weibo, Douban, and Bilibili was something quite different from what I had been reading in English. Comment threads on live footage, label announcements, exchanges between fans, statements from artists themselves — all of it coexisting without editorial mediation. It eventually became apparent that the English-language material I had relied on was, in effect, the product of observation, interpretation, and curation — a version of the source rather than the thing itself. This has nothing to do with the intentions of those who wrote it. It is simply not visible until you reach the original.
 
-The microwave used during Gang of Four's live performance, as it turned out, is currently sitting in the offices of 琪琪音像 — the label behind yourboyfriendsucks!. Learning this brought me back, in some oblique way, to the initial impact that had drawn me to Chinese music in the first place. It was that which moved me from the position of outside observer towards the act of writing. It has something to do with encountering the DIY sensibility these artists operate from. Simply put: I saw what they were doing and decided to follow the example.
+The microwave used during Gang of Four's live performance, as it turned out, is currently sitting in the offices of 琪琪音像 Qiii Snacks Records — the label behind yourboyfriendsucks!. Learning this brought me back, in some oblique way, to the initial impact that had drawn me to Chinese music in the first place. It was that which moved me from the position of outside observer towards the act of writing. It has something to do with encountering the DIY sensibility these artists operate from. Simply put: I saw what they were doing and decided to follow the example.
 
 ## 7
 
