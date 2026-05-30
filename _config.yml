@@ -6,6 +6,7 @@ across China, with a focus on post-punk and its margins."
 permalink: /:year-:month-:day-:title/
 plugins:
   - jekyll-feed
+  - jekyll-aeo
 
 feed:
   excerpt_only: true
