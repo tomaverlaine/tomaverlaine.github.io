@@ -19,3 +19,8 @@ defaults:
       type: "posts"
     values:
       ref: ""         # 単言語投稿は空 
+
+jekyll_aeo:
+  llms_full_txt:
+    enabled: true
+    full_txt_mode: "all" 
