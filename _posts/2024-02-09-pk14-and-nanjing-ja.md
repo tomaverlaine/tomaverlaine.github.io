@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "P.K.14 and the Post-Punk City of 1990s Nanjing"
+title: P.K.14 と南京ポストパンクシティ
 date: 2024-02-09
 lang: ja
 categories: texts 
