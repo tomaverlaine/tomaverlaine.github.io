@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ”P.K.14与九十年代南京的后朋克之城“
+title: P.K.14与九十年代南京的后朋克之城
 date: 2024-02-09
 lang: zh
 categories: texts
