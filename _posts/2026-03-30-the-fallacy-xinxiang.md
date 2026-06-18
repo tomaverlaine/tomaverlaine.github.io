@@ -10,6 +10,7 @@ tags:
   - The Fallacy
 excerpt: jagged, dissonant textures and sudden bursts of noise, chaotic and strangely beautiful, something you have never heard before
 summary: Traces Xinxiang’s multi-generational legacy through a jagged, edgy band.
+ref: thefallacy
 ---
 
 ## Introduction 
@@ -121,7 +122,7 @@ The Fallacy are not directly involved in operations, but appeared early on as cl
 In its early days, the lineup centred on local Henan acts — The Fallacy, Today's Production, Muzzy Mam, Pumpkins, and others. Gradually, acts from other regions have begun to appear as well, stopping by during tours through Henan, or reaching out after discovering the project online. The whole thing runs on no budget to speak of, sustained entirely by the enthusiasm and out-of-pocket contributions of the people involved.
 
 #### Notebook: Five Bands, Six Musicians
-That same year, Wang Xubo and Zhang Nan formed Muzzy Mam together with members of Pumpkins and Why Lazy. Whether it's down to the small pool of rock musicians or something particular to the temperament of people from Henan, doubling up across bands simultaneously — is a frequently cited hallmark of the Xinxiang scene. There's a running joke — possibly based on a true story — about going to a local show with five bands on the bill, only to find that the total number of distinct musicians across all of them is six.
+In 2009, Wang Xubo and Zhang Nan formed Muzzy Mam together with members of Pumpkins and Why Lazy. Whether it's down to the small pool of rock musicians or something particular to the temperament of people from Henan, doubling up across bands simultaneously — is a frequently cited hallmark of the Xinxiang scene. There's a running joke — possibly based on a true story — about going to a local show with five bands on the bill, only to find that the total number of distinct musicians across all of them is six.
 
 ## More to Come
 
