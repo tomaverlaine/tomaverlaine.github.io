@@ -59,7 +59,7 @@ In early 2008, Sun was replaced by Yang Baobin, a former member of Beijing's inf
 
 Yang Haisheng, frontman of Beijing's post-punk pioneers, was deeply impressed by the energy and originality of his former bandmate's new band. He decided to recommend them to Modern Sky, the Beijing-based indie label to which P.K.14 was signed. The band surely heard about this and threw themselves into writing original material.
 
-In 2010, the track "Rainwater Flows the Railway" was included on Modern Sky's sampler compilation album *Modern Sky 6*, and the band performed at the label's own festivals. A formal contract followed in 2011, along with the recording of their debut full-length album. This made them the first band from Henan to sign with the Beijing-based record company, and it was covered in the local press. Around this time, Wang Xubo took a job at Xinxiang's newspaper.
+In 2010, the track *Rainwater Flows the Railway* was included on Modern Sky's sampler compilation album *Modern Sky 6*, and the band performed at the label's own festivals. A formal contract followed in 2011, along with the recording of their debut full-length album. This made them the first band from Henan to sign with the Beijing-based record company, and it was covered in the local press. Around this time, Wang Xubo took a job at Xinxiang's newspaper.
 
 In October 2011, their debut album *The Terrible Silence*, produced by Yang Haisong, was released. Its overt debt to The Birthday Party struck listeners as something fresh, and the band was received warmly as a distinctive new voice from outside Beijing.
 
