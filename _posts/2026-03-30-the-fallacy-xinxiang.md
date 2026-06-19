@@ -10,7 +10,6 @@ tags:
   - The Fallacy
 excerpt: jagged, dissonant textures and sudden bursts of noise, chaotic and strangely beautiful, something you have never heard before
 summary: Traces Xinxiang’s multi-generational legacy through a jagged, edgy band.
-ref: thefallacy
 ---
 
 ## Introduction 
