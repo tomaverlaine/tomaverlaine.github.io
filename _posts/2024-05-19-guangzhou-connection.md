@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "yourboyfriendsucks! and the Guangzhou Connection: The Band That Accidentally Built a Scene"
+title: "yourboyfriendsucks! and the Guangzhou Connection"
 date: 2024-05-19
 categories:
   - texts 
@@ -11,6 +11,8 @@ excerpt: "Their recorded output, in total, is modest: a debut album conceived as
 summary: "What YBS and the Qiii Snacks circle built wasn't really a career in any conventional sense. It was more like a way of doing things — and it turned out to matter to a lot of people."
 ref: ybs
 ---
+
+## The Band That Accidentally Built a Scene
 
 There is a song called *"The Capital of Poland Is Shanghai"* — an achingly wistful love song that carries something of the bittersweet restlessness of youth. Unnoticed at first, it became the unofficial anthem of an entire regional music scene. Wherever it plays now, people sing along. The band that wrote it never particularly set out to be famous — which, depending on how you look at it, is exactly how it should be.
 
