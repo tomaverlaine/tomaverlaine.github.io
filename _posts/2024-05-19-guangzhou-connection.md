@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: yourboyfriendsucks! and the Guangzhou Connection: The Band That Accidentally Built a Scene
+title: "yourboyfriendsucks! and the Guangzhou Connection: The Band That Accidentally Built a Scene"
 date: 2024-05-19
 categories:
   - texts 
