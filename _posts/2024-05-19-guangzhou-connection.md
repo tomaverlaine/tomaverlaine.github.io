@@ -86,7 +86,7 @@ The Sarah Records founder, in Bristol, later sent Boring Productions a personal 
 
 Shortly after *Our Secret World*, Full Label quietly wound down. Around autumn 2015, 小赵 Siugat Zhao, the principal organizer, stepped back from music entirely. (He now runs an audio equipment rental business.)
 
-Siugat and the remaining members regrouped and, in October 2015, formalised as 琪琪音像 Qiii Snacks Records. The name comes from a local snack shop the members used to frequent — 祺祺小食 Qiqi Snacks — combined with the word for "video shop" (音像), a nod to the nostalgia of childhood media rental (before streaming). The logo is a bottle cap.
+Siugat and the remaining members regrouped and, in October 2015, formalised as 琪琪音像 Qiii Snacks Records. The name comes from a local snack shop the members used to frequent — 祺祺小食店 Qiqi Snacks — combined with the word for "video shop" (音像), a nod to the nostalgia of childhood media rental (before streaming). The logo is a bottle cap.
 
 Qiii Snacks was essentially Full Label with marginally more structure — still entirely amateur (everyone has a day job), still resolutely DIY, but now operating recognisably as a record label. The stated motto, “粗制滥造” (translated roughly as "cheap, rough output"), was meant partly as self-deprecation about the quality that limited resources could produce, partly as defiance against the perfectionism of professional operations. "Maximum output given limited energy," essentially.
 
@@ -94,7 +94,7 @@ The label's finances are notably transparent: revenue from gigs and record sales
 
 The label's first significant project was bringing Taiwanese emo act 透明雜誌 Touming Magazine on a four-city mainland tour — which is, by some accounts, the reason Qiii Snacks was formalised at all. More precisely, it was a joint bill with Hong Kong emo band Emptybottles. Members pooled money, arranged accommodation, booked venues, and sorted the logistics themselves. The tour turned a modest profit. That profit funded the next thing.
 
-In May 2016, YBS released their first proper studio EP, *第一集 (Volume One)*, through Qiii Snacks — six songs, with cover artwork by Space, whose cartoon illustrations — cute, slightly absurd. Shortly after the EP came out, Zoey left for Germany to study, and the band went on hiatus.
+In May 2016, YBS released their first proper studio EP, *第一集 (Volume 1)*, through Qiii Snacks — six songs, with cover artwork by Space, whose cartoon illustrations — cute, slightly absurd. Shortly after the EP came out, Zoey left for Germany to study, and the band went on hiatus.
 
 ### Qiii Snacks as Hub
 
@@ -108,11 +108,11 @@ The EP circulated. Streaming platforms helped. People who had never heard of Gua
 
 Around the mid-2010s, what had begun as scattered circles of likeminded people across the southern coast began to cohere into something recognisable as a scene — a multi-city network with genuine communication and mutual influence.
 
-The connective tissue was, unexpectedly, 1980s and 90s British indie music. Shoegaze became a particular focus. In Shanghai, 旧日秋悲 Forsaken Autumn, a veteran shoegaze act, launched Luuv Label. In 2013, they organized the first 东亚自赏音乐节 East Asia Shoegaze Festival — a series that would become one of the most significant events in the southern scene. The festival brought in overseas bands, connected Chinese and Japanese shoegaze communities, and created a sense of something coherent taking shape among people who had previously thought of themselves as isolated.
+The connective tissue was, unexpectedly, 1980s and 90s British indie music. Shoegaze became a particular focus. In Shanghai, Forsaken Autumn, a veteran shoegaze act, launched Luuv Label. In 2013, they organized the first 东亚自赏音乐节 East Asia Shoegaze Festival — a series that would become one of the most significant events in the southern scene. The festival brought in overseas bands, connected Chinese and Japanese shoegaze communities, and created a sense of something coherent taking shape among people who had previously thought of themselves as isolated.
 
 Another connective event was a touring series called "Express," organized by former City Flanker vocalist 王客观 Wang Keguan and The White Tulips. It functioned as a rotating platform for exchange — bands and audiences meeting across different cities.
 
-Nick, a member of Shanghai shoegaze outfit Soft, attended an Express show in Guangzhou, saw what Qiii Snacks was doing, and was moved by it. He returned to Shanghai and started his own label — 生煎唱片 SJ Records. Its first release was Beijing band 缺省 Default, followed by 動物園釘子戶 Zoo Nail Household, 波卡利甜 Pocari Sweet, and others. As SJ Records gradually developed, a capital shadow eventually appeared behind it. Nick found this uncomfortable and eventually departed. In 2019, he and Pocari Sweet guitarist 爵儿 Jueer established 信唱片 Letter Records, attempting to return to more private, personal expression. Both became too occupied with other work; Letter Records is currently on pause, and its releases have been delisted from overseas platforms — a loss for listeners.
+Nick, a member of Shanghai shoegaze outfit Soft, attended an Express show in Guangzhou, saw what Qiii Snacks was doing, and was moved by it. He returned to Shanghai and started his own label — 生煎唱片 SJ Records. Its first release was Beijing band 缺省 Default, followed by 動物園釘子戶 Zoogazer, 波卡利甜 Pocari Sweet, and others. As SJ Records gradually developed, a capital shadow eventually appeared behind it. Nick found this uncomfortable and eventually departed. In 2019, he and Pocari Sweet guitarist 爵儿 Jueer established 信唱片 Letter Records, attempting to return to more private, personal expression. Both became too occupied with other work; Letter Records is currently on pause, and its releases have been delisted from overseas platforms — a loss for listeners.
 
 The pattern repeats itself across the scene: someone encounters something that feels right, and goes away wanting to do it themselves. This is how networks become ecosystems.
 
@@ -120,7 +120,7 @@ The pattern repeats itself across the scene: someone encounters something that f
 
 By 2019, *Episode 1*'s reputation had accumulated through streaming. People who had no connection to Guangzhou's underground heard the song and felt something land. Zoey returned briefly, and YBS reunited for a small tour. The crowds were vastly larger than anything from their original run. It felt like vindication, though for a band that had never particularly sought validation, vindication was beside the point.
 
-Then COVID-19 arrived. Venues closed. Touring stopped. Many labels went silent. Zoey was unable to return to the mainland due to border closure. Facing this pressure, in April 2020, Qiii Snacks released YBS's second EP, *第二集 (Volume Two)* — digital only, a kind of prescription written for isolation's particular despair. The band endured.
+Then COVID-19 arrived. Venues closed. Touring stopped. Many labels went silent. Zoey was unable to return to the mainland due to border closure. Facing this pressure, in April 2020, Qiii Snacks released YBS's second EP, *第二集 (Volume 2)* — digital only, a kind of prescription written for isolation's particular despair. The band endured.
 
 In 2023, YBS emerged for a final effort: a nine-city farewell tour. At each city, they invited local guest bands. The final show was in Guangzhou. There, Romeo, the long departed original bassist, returned to the stage for one last time. At that show, they formally announced their dissolution.
 
@@ -134,11 +134,11 @@ What YBS and the Qiii Snacks circle built wasn't really a career in any conventi
 
 ## Branches and New Growth
 
-Siugat's Qiii Snacks has never stop. It continues releasing new work, sometimes mythologised among younger listeners, but maintaining its own inscrutable pace. The label opened a physical shop in Guangzhou, *Portal*, selling records and merchandise, occasionally hosting small events. Several cats live there year-round.
+Siugat's Qiii Snacks has never stop. It continues releasing new work, sometimes mythologised among younger listeners, but maintaining its own inscrutable pace. The label opened a physical shop Portal in Guangzhou, selling records and merchandise, occasionally hosting small events. Several cats live there year-round.
 
-The former members have taken different paths. Space and Siugat formed 想想 Xinxiang, sometimes jokingly called "YBS 2.0," with other Full Label members participating (Siugat later left). Bassist Androw brought to life 乔迁日, a proper shoegaze band that, following YBS's lead, has also since dissolved. Its members quickly formed a new band with a name that sounds like a joke: I'm Fine, Thank You! And You? (IFTYAY). The music has shifted slightly, but the quality remains intact. Drummer Xiaoming, back in Jiangsu, formed multiple bands; his current act, 液藍 Blue Liquid, signed to 兵马司 Maybe Mars Records and will release a new album in 2026.
+The former members have taken different paths. Space and Siugat formed 想想 Xinxiang, sometimes jokingly called "YBS 2.0," with other Full Label members participating (Siugat later left). Bassist Androw brought to life 乔迁日 Jo's Moving Day, a proper shoegaze band that, following YBS's lead, has also since dissolved. Its members quickly formed a new band with a name that sounds like a joke: I'm Fine, Thank You! And You? (IFTYAY). The music has shifted slightly, but the quality remains intact. Drummer Xiaoming, back in Jiangsu, formed multiple bands; his current act, 液藍 Blue Liquid, signed to 兵马司 Maybe Mars Records and will release a new album in 2026.
 
-Simultaneously, new labels began sprouting around Guangzhou's old core. In 2023, 螢石唱片 Fluorite Records was founded by members from Cheesemind, 乔迁日. Beginning with Pocari Sweet's triumphant return to form, continuing through releases from established acts like Love Letter Lost, and encompassing event organization, Fluorite Records has demonstrated remarkable stability and reliability.
+Simultaneously, new labels began sprouting around Guangzhou's old core. In 2023, 萤石唱片 Fluorite Records was founded by members from Cheesemind, Jo's Moving Day. Beginning with Pocari Sweet's triumphant return to form, continuing through releases from established acts like Love Letter Lost, and encompassing event organization, Fluorite Records has demonstrated remarkable stability and reliability.
 
 In Shenzhen, a new label called 小动物唱片 Small Animals Records is growing. It has found its own position within China's broader indie and emo scene. They operate under the motto "DIY attack world," starting with zines and mixtapes, becoming known for cute illustrations and merchandise. Their approach mirrors Qiii Snacks' exactly; the two maintain close personal ties.
 
