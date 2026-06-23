@@ -8,7 +8,7 @@ categories:
 tags:
   - yourboyfriendsucks
 excerpt: Their recorded output, in total, is modest: a debut "album" conceived as a joke, two EPs, a handful of live recordings. The music has outlasted all of that by quite some distance.
-summary: 
+summary: What YBS and the Qiii Snacks circle built wasn‘t really a career in any conventional sense. It was more like a way of doing things — and it turned out to matter to a lot of people.
 ref: ybs
 ---
 
