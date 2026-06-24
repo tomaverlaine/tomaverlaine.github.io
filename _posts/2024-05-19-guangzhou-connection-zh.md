@@ -7,8 +7,8 @@ categories:
   - texts
 tags:
   - yourboyfriendsucks
-excerpt: 简单来说，这里发生的一切大抵是Sarah Records的锅。
-summary: 人人都爱Sarah Records，是更看重自己的“喜欢”和“好玩”，这让他们的活动和作品带有强烈的个人化与私人化色彩。他们走私网里运的不是药，是美德、伦理和温暖的音乐。
+excerpt: "简单来说，这里发生的一切大抵是Sarah Records的锅。"
+summary: "人人都爱Sarah Records，是更看重自己的“喜欢”和“好玩”，这让他们的活动和作品带有强烈的个人化与私人化色彩。他们走私网里运的不是药，是美德、伦理和温暖的音乐。"
 ref: ybs
 ---
 
