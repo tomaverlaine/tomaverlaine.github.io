@@ -7,6 +7,7 @@ tags: [carsick-cars, snapline, beijing, yang-haisong, re-tros, maybe-mars]
 lang: en
 summary: Traces an unassuming band’s involvement in shaping China’s indie rock scene.
 excerpt: he posted on the student message board asking if anyone was a fan of Sonic Youth or Suicide
+ref: carsick-cars
 ---
 
 ## Introduction 
