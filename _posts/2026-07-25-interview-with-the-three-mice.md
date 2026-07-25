@@ -13,11 +13,11 @@ A translation of a long interview with The Three Mice, originally posted on Xiao
 
 Since forming in 2022, The Three Mice (鼠鼠鼠 Shǔ Shǔ Shǔ) have quickly built a following. Their appeal rests on their cute looks and a lo-fi, bedroom-style sound, drawing from indie rock, alt-rock, noise rock, emo, shoegaze, and whatever else happened to be lying around. That sound is backed up by their half-feral live shows. Their ongoing national tour has been sending crowds into a frenzy wherever it goes. 
 
-Their debut album Where is my mice? came out just last month, and is being widely discussed as one of the best albums of 2026.
+Their debut album *Where is my mice?* came out just last month, and is being widely discussed as one of the best albums of 2026.
 
 
 
-The interviewer is 量子 Liangzi, a Chinese music blogger. Some of the questions have been trimmed here for length, and the original post is packed with photos.
+The interviewer is 量子 Liangzi, a Chinese music blogger. Some of the questions have been trimmed, and the original post is packed with photos.
 
 Check out the original: [🐀³采访一则](http://xhslink.com/o/9Yqx91EzNaW)
 
