@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Three Mice； A Interview with Shenzhen’s Loudest Bedroom Band"
+title: "The Three Mice, Shenzhen’s Loudest Bedroom Band"
 date: 2026-07-25
 categories: [interviews]
 tags: [the-three-mice]
@@ -19,7 +19,7 @@ Their debut album Where is my mice? came out just last month, and is being widel
 
 The interviewer is 量子 Liangzi, a Chinese music blogger. Some of the questions have been trimmed here for length, and the original post is packed with photos.
 
-Check out the original: 🐀³采访一则 - http://xhslink.com/o/9Yqx91EzNaW
+Check out the original: [🐀³采访一则](http://xhslink.com/o/9Yqx91EzNaW)
 
 <figure>
   <img src="/assets/images/three-mice-interview-01.jpg" alt="The five members of The Three Mice sitting backstage at a live house">
