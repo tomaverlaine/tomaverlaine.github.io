@@ -151,7 +151,7 @@ Personally, the one that means the most to me is *Melancholy Cheers Paradise (�
 
 *Stay Home Club*, *Melancholy Cheers Paradise* and *Goodbye, Mickey Mouse* are all built out of my own personal struggles. Our restraint is in how we dilute that pain — through humour that distracts a little, or through musicality that carries more of the weight, so it never becomes venting for venting’s sake.
 
-**One thing that particularly caught my attention on this album was your cover of The Velvet Underground's *I'll Be Your Mirror*, retitled *我是你的老鼠 ("I'll Be Your Mouse")* . The tenderness of the original — which feels like a warm embrace — is genuinely moving. The distance and dissonance created by changing the word to "mouse" is fascinating. Why did you choose this song? What feeling were you trying to convey with the title "I'll Be Your Mouse"?**
+**One thing that particularly caught my attention on this album was your cover of The Velvet Underground’s *I’ll Be Your Mirror*, retitled *我是你的老鼠 (I’m Your Mouse)*.The tenderness of the original — which feels like a warm embrace — is genuinely moving. The distance and dissonance created by changing the word to "mouse" is fascinating. Why did you choose this song for the cover? In the context of "I'm Your Mouse," what feeling were you most hoping to convey to listeners?**
 
 **bolin:** I just hoped whoever got the reference would laugh.
 
@@ -184,7 +184,7 @@ Around that time I'd managed to pick up a Kurt Cobain-model Jaguar for cheap, bu
 
 **ChaI:** Green Day, American Idiot. 大魔王 TaiMokWong, *错过错*. King Ly Chee, *Time Will Prove (时间证明)*. Departures, *Teenage Haze*.
 
-**la:** In middle school, going through my edgy teen phase, I'd have Rammstein or AC/DC — bloody, violent stuff — playing on my Qzone (an SNS-like platform). And a lot of fighting games featured metalcore tracks; I had no idea what the lyrics meant, but listening to them made me feel cool. 
+**la:** In secondary school, going through my edgy teen phase, I'd have Rammstein or AC/DC — bloody, violent stuff — playing on my Qzone (an SNS-like platform). And a lot of fighting games featured metalcore tracks; I had no idea what the lyrics meant, but listening to them made me feel cool. 
 
 Once I got to university I joined a club and started playing punk covers — 指人儿 Finger Family, most often. Looking back, it's a fairly touching little episode — though being 20 and being 30 feel completely different, of course.
 
@@ -242,7 +242,7 @@ That distinction matters a lot to me. It's given me the confidence, when I'm wri
 
 **k:** Jazz...
 
-**If, at some point down the line, one member left the band, would The Three Mice still be The Three Mice?**
+**A lot of bands are first drawn together by a shared love of music, but staying together long-term usually takes something more than that. Is what holds The Three Mice together mainly a shared love of music, or is there also some underlying compatibility in personality and values? And in your view, does The Three Mice have any member who’s irreplaceable? Is that irreplaceability more about technical skill and songwriting ability, or more about spirit and what holds the group together? If one member left someday, would The Three Mice still be The Three Mice?**
 
 **bolin:** I hope nobody leaves. If someone did, I'd just go off and start another band.
 
