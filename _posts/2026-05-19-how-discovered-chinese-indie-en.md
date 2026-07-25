@@ -13,6 +13,7 @@ summary: Why I keep writing about Chinese indie music
 ref: discover
 ---
 
+
 ## 0
 
 For some years now, I have been running a project with the rather grandiose name of Chinese Postpunk Anthology — a modest, ongoing effort spread across SNS, Substack, note, and a personal website. New releases, band introductions, scene overviews. An attempt to gather and document information about Chinese indie rock, a subject that barely exists in Japanese.

@@ -13,7 +13,7 @@ lang: en
   
   <p>The selection is subjective. What is included matters, but so does what is left out.</p>
 
-  <p>Texts are written in English, Japanese, and occasionally Chinese, and are meant to be read discontinuously.</p>
+  <p>Texts are written in English, Japanese, and occasionally Chinese. The archive is discontinuous.</p>
 
   <p class="social-links">
     <a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify</a> -
