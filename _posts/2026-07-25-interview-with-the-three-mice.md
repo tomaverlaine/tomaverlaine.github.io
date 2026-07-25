@@ -21,7 +21,7 @@ The interviewer is 量子 Liangzi, a Chinese music blogger. Some of the question
 
 Check out the original: 🐀³采访一则 - http://xhslink.com/o/9Yqx91EzNaW
 
-![The Three Mice](/assets/images/shushushu-interview-01.jpg)
+![The Three Mice](/assets/images/the-three-mice-interview-01.jpg)
 
 *From left: ChaI (drums), bolin (guitar, vocals/screams), la (bass, vocals), k (guitar, vocals), Jun (synth, vocals/screams)*
 
