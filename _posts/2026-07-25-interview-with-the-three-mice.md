@@ -28,6 +28,10 @@ Check out the original: 🐀³采访一则 - http://xhslink.com/o/9Yqx91EzNaW
 
 ---
 
+**Liangzi: Hello to everyone in The Three Mice!**
+
+**I’m Liangzi. First, my sincerest greetings to all of you, and thank you for this chance to talk. As someone who’s kept an eye on China’s underground music and independent bands for a long time — a listener and a record-keeper more than anything else — I’ve always been drawn to bands that keep making music in earnest, and The Three Mice have stood out to me in particular.**
+
 **In preparing for this interview, I went through a fair amount of material on the band and listened to your records again and again. Beyond the music itself, I’ve also been curious about how the band has grown since it started, the stories between its members, what daily life in the Shenzhen scene looks like, and the thinking hidden behind the work. So I’m hoping this interview can help people understand The Three Mice more deeply, and let more listeners see the real, vivid you beyond the music.**
 
 **What follows are some questions around how the band came together, your approach to songwriting, making the album, life on the road, and each member’s own story. I’m looking forward to hearing the story that belongs to The Three Mice, and I’m grateful you’ve taken the time for this.**
