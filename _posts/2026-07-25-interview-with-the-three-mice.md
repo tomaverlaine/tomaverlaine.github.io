@@ -21,14 +21,8 @@ The interviewer is 量子 Liangzi, a Chinese music blogger. Some of the question
 
 Check out the original: 🐀³采访一则 - http://xhslink.com/o/9Yqx91EzNaW
 
-![The Three Mice](/assets/images/the-three-mice-interview-01.jpg)
-
-*From left: ChaI (drums), bolin (guitar, vocals/screams), la (bass, vocals), k (guitar, vocals), Jun (synth, vocals/screams)*
-
-
-
 <figure>
-  <img src="/assets/images/three-mice-interview-01.jpg" alt="鼠鼠鼠のメンバー">
+  <img src="/assets/images/three-mice-interview-01.jpg" alt="The five members of The Three Mice sitting backstage at a live house">
   <figcaption>From left: ChaI (drums), bolin (guitar, vocals/screams), la (bass, vocals), k (guitar, vocals), Jun (synth, vocals/screams)</figcaption>
 </figure>
 
