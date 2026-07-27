@@ -1,24 +1,8 @@
----
----
-
-@font-face {
-  font-family: 'Inter';
-  src: url('/assets/fonts/Inter-Regular.ttf') format('truetype');
-  font-weight: 400; font-display: swap;
-}
-@font-face {
-  font-family: 'Rabiqcute';
-  src: url('/assets/fonts/rabiqcute-regular.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 /* 全体 */
 html {
-  font-family: "Helvetica Neue", Arial,"Noto Sans JP","Noto Sans SC",system-ui,sans-serif;
+  font-family: "Inter", "Noto Sans JP", "Noto Sans SC", system-ui, sans-serif;
   letter-spacing: 0.02em;
-  font-size: 16px; 
+  font-size: 100%;   /* was: 16px */
 }
 
 body {
@@ -31,55 +15,36 @@ body {
 
 html:lang(ja) body {
   font-size: 1rem;
-font-family:
-  -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Noto Sans JP", "Noto Sans SC", "Hiragino Sans", "PingFang SC", "Yu Gothic UI", "Meiryo", "Microsoft YaHei", sans-serif;
-  
+  font-family: "Inter", "Noto Sans JP", "Noto Sans SC", system-ui, sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
 }
 
 html:lang(zh) body {
   font-size: 1rem;
-  font-family: "Inter","Helvetica Neue", Arial, "Noto Sans SC", "PingFang SC", sans-serif;
+  font-family: "Inter", "Noto Sans SC", "Noto Sans JP", system-ui, sans-serif;
   letter-spacing: 0.02em;
   line-height: 1.9em;
 }
 
-
-
 /* リンク */
-a {
-  text-decoration: none;
-  border-bottom: none;
-}
+a { text-decoration: none; border-bottom: none; }
+a:hover { background: #000; color: #000; border-bottom: none; }
 
-a:hover {
-  background: #000;
-  color: #000;
-  border-bottom: none;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px 0;
-}
-
+img { max-width: 100%; height: auto; display: block; margin: 20px 0; }
 
 .page-content {
-    max-width: 100%;
-    padding-top:1.2rem;
-    padding-left: clamp(0.5rem, 5vw, 32vw);
+  max-width: 100%;
+  padding-top: 1.2rem;
+  padding-left: clamp(0.5rem, 5vw, 32vw);
 }
-
 
 /* header */
 .site-header {
   all: unset;
   display: block !important;
   font-size: 0.8rem;
-  line-height:1.0em;
+  line-height: 1.0em;
   margin-top: 0px;
   margin-bottom: 2.5em;
 }
@@ -92,50 +57,11 @@ img {
   display: block !important;
   width: 100%;
   margin: 0 auto;
-  transform:rotate(-0.4deg);
+  transform: rotate(-0.4deg);
 }
-.intro {
-  font-size: 1em;
-  margin: 0 0.4em 0 0.4em;
-}
+.site-title a { color: inherit; text-decoration: none; }
 
-html:lang(ja, zh) .site-title {
-}
-
-.site-title a {
-  color: inherit;
-  text-decoration: none;
-}
-
-/* contents */
-
-.zine {
-  max-width: 72ch;
-  margin: 0 1.4em auto 3%;
-}
-html:lang(ja) .zine {
-  max-width: 74ch;
-}
-html:lang(zh) .zine {
-  max-width: 74ch;
-}
-
-
-.post-header {
-  margin-bottom: 0;
-}
-
-.post-title {
-  font-size: 2.4em;
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: 0.04em;
-  margin-top: 0.8em; 
-  margin-right: auto;
-  margin-bottom: 0;
-  margin-left: -10px;
-}
-
+.intro { font-size: 1em; margin: 0 0.4em 0 0.4em; }
 
 .lang-switch {
   font-size: 0.8em;
@@ -143,120 +69,92 @@ html:lang(zh) .zine {
   margin-left: -5px;
 }
 
+/* contents */
+.zine { max-width: 72ch; margin: 0 1.4em auto 3%; }
+html:lang(ja) .zine { max-width: 36em; }   /* was: 74ch */
+html:lang(zh) .zine { max-width: 34em; }   /* was: 74ch */
 
-/* 本文 */
-.zine p {
-  padding-left: 1.1em;
+.post-header { margin-bottom: 0; }
 
+.post-title {
+  font-size: 2.4em;
+  font-weight: 600;               /* was: 4600 */
+  line-height: 1;
+  letter-spacing: 0.04em;
+  margin-top: 0.8em;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: -10px;
 }
 
+/* 本文 */
+.zine p { padding-left: 1.1em; }
+
 /* 見出し */
-h2 {
+h2, .zine h2, .zine h3 {
   font-size: 1.4em;
   font-weight: 600;
   margin-top: 2.0em;
-  margin-left: -0.4em;
-} 
-
-.zine h2 {
-  font-size: 1.4em; /* 本文より大きめ */
-  margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 600; 
-  margin-left: -0.4em;
-  line-height: 1.1em;
-}
-.zine h3 {
- font-size: 1.4em; /* 本文より大きめ */
-  margin-top: 2.0em;
-  margin-bottom: 0.0em;
-  font-weight: 600; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
 .zine h4 {
- font-size: 1.2em; /* 本文より大きめ */
+  font-size: 1.2em;
+  font-weight: 400;
   margin-top: 2.0em;
   margin-bottom: 0.0em;
-  font-weight: 400; 
   margin-left: -0.4em;
   line-height: 1.1em;
 }
 
-.license-note {
-  font-size: 0.7em;
-  color: #666;
-  margin: 2.6em 0;
-  line-height: 1.2;
-}
+.license-note { font-size: 0.7em; color: #666; margin: 2.6em 0; line-height: 1.2; }
 
 /* ポストナビ */
 .post-nav {
   display: flex;
+  flex-wrap: wrap;               /* added */
+  gap: 1em;                      /* added */
   justify-content: space-between;
   margin-top: 3rem;
   font-size: 0.9em;
 }
-
-.post-nav a {
-  text-decoration: none;
-}
+.post-nav a { text-decoration: none; }
 
 /* index */
+.zine-list { list-style: none; padding: 0; }
 
-.zine-list {
-  list-style: none;
-  padding: 0;
+.zine-list li {
+  padding: 0.6em 0;              /* added: tap target */
+  border-bottom: 1px solid #eee; /* added: visual separation */
 }
 
-.posts {
-  font-size: 1em; 
-  line-height: 1;
-  margin-bottom: 0.3em;
-}
-
-
-.zine-list a {
-  text-decoration: none;
-  border-bottom: none;
-}
+.posts { font-size: 1em; line-height: 1; margin-bottom: 0.3em; }
+.zine-list a { text-decoration: none; border-bottom: none; }
 
 .post-summary {
   margin: 0 0 1.4em 1.4em;
   font-size: 0.9em;
-  line-height:1.0em;
+  line-height: 1.45;             /* was: 1.0em */
 }
-
 
 /* about */
 .social-links {
   margin-top: 2.4em;
   display: flex;
+  flex-wrap: wrap;                /* added */
   gap: 1.5em;
   font-size: 0.95em;
 }
 
-
 /* フッター */
-.site-footer {
-  margin-top: 80px;
-  margin-bottom: 40px;
-  font-size: 0.7em;
-  color: #000; 
-}
+.site-footer { margin-top: 80px; margin-bottom: 40px; font-size: 0.7em; color: #000; }
+.site-footer a { color: #000; border-bottom: none; }
+.site-footer a:hover { background: #000; color: #000; border-bottom: none; }
 
-.site-footer a {
-  color: #000; 
-  border-bottom: none;
-}
-
-.site-footer a:hover {
-  background: #000;
-  color: #000;
-    border-bottom: none;
-} 
-  
-.site-footer a {
-  color: #000; 
-  border-bottom: none; 
+/* 狭い画面での負マージン緩和 */
+@media (max-width: 400px) {
+  .post-title, h2, h3, h4, .zine h2, .zine h3, .zine h4, .lang-switch {
+    margin-left: 0;
+  }
 }
