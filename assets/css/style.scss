@@ -68,18 +68,21 @@ img { max-width: 100%; height: auto; display: block; margin: 20px 0; }
 
 
 .lang-switch {
-  font-size: 0.8em;
-  margin-bottom: 1em;
-  margin-left: -5px;
   display: flex;
   gap: 0.6em;
+  margin-bottom: 1em;
+  margin-left: -5px;
+  font-size: 0.8em;
 }
 
-.lang-switch a {
+.lang-switch a,
+.lang-switch .lang-current {
   color: #666;
+  text-decoration: none;
   border-bottom: 1px solid transparent;
-  transition: border-color 0.15s ease, color 0.15s ease;
+  transition: color 0.15s ease, border-color 0.15s ease;
 }
+
 .lang-switch a:hover {
   color: #111;
   border-color: #111;
@@ -87,10 +90,14 @@ img { max-width: 100%; height: auto; display: block; margin: 20px 0; }
 
 .lang-switch .lang-current {
   color: #111;
-  font-weight: 600;
-  border-bottom: 1px solid #111;
+  font-weight: 700;
+  border-color: #111;
 }
 
+.lang-switch a[aria-current="page"] {
+  pointer-events: none;
+  cursor: default;
+}
 
 
 /* contents */
