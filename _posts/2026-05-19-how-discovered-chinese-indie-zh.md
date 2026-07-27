@@ -10,7 +10,7 @@ tags:
   - Hiperson
   - yourboyfriendsucks
 excerpt: 用日语记录中国独立摇滚，后朋克场景到DIY写作
-summary: 
+summary: Chinese Postpunk Anthology，用日语介绍中国独立摇滚。新专辑、乐队、场景。没人让我这么做。我跟音乐行业和乐评圈毫无关系，只是个普通乐迷。下面就是事情的经过。
 ref: discover
 ---
 
