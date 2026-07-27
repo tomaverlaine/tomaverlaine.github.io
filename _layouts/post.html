@@ -24,6 +24,14 @@ layout: default
   {% endif %}
 {% endif %}
 
+<pre style="font-size:10px; color:red;">
+DEBUG ref: {{ page.ref }}
+DEBUG lang: {{ page.lang }}
+DEBUG translations.size: {{ translations.size }}
+{% for t in translations %}
+  - {{ t.lang }} | {{ t.ref }} | {{ t.url }}
+{% endfor %}
+</pre>
 
 
 </header>
