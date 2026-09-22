@@ -120,7 +120,7 @@ Zoey returned briefly, and YBS reunited for a small tour. The crowds were larger
 
 Then COVID-19 arrived. Venues closed. Touring stopped. Many labels went silent. Zoey was unable to return to the mainland due to border closure. Facing this pressure, in April 2020, Qiii Snacks released YBS's second EP, *第二集 (Volume 2)* — digital only, a kind of prescription written for isolation's particular despair. The band endured.
 
-In 2023, YBS emerged for a final effort: a nine-city farewell tour. At each city, they invited local guest bands. The final show was in Guangzhou. There, Romeo, the long departed original bassist, returned to the stage. At that show, they formally announced their dissolution.
+In 2023, YBS emerged for a final effort: a nine-city farewell tour. At each city, they invited local guest bands. The final show was in Guangzhou. There, Romeo, the long departed original bassist, returned to the stage. At that show, they formally announced their disbandment.
 
 Siugat ended the evening by recalling something Xiaozhao — the founder of Full Label — used to say: "What we're trying to do is make music that warms people's hearts." That is what they have done. That is what they were always doing.
 
