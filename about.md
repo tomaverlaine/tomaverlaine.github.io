@@ -19,5 +19,5 @@ lang: en
     <a href="https://open.spotify.com/playlist/2n3HVMSwuDpPFuhtRS4Nru">Spotify</a> -
     <a href="https://tomaverlaine.substack.com">Substack</a> -
     <a href="https://note.com/tomaverlaine">Note</a> -
-    <a href="https://x.com/tomaverlaine">@tomaverlaine</a>
+    <a href="https://x.com/tomaverlaine">Twitter</a> - <a href="mailto:contact@tomaverlaine.com">Mail</a>
   </p>

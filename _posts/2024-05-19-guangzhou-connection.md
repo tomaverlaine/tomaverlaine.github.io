@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "yourboyfriendsucks! and the Guangzhou Connection"
+title: "yourboyfriendsucks! and the GuangdongConnection"
 date: 2024-05-19
 categories:
   - texts 
@@ -58,7 +58,7 @@ The members of the Band Village circle would later organize their own music fest
 
 In 2010, from within the Full Label circle, YBS came together. Several friends had developed a shared obsession with The Jesus and Mary Chain and wanted to play together.
 
-The founding lineup was guitarists 小吉 Siugat and 史悲 Space, bassist 羅密欧 Romeo, and drummer 晓鸣 Xiaoming (who would serve as the band's primary drummer through its entire run; other members sometimes mistakenly believed there were multiple drummers due to his nickname 施总 being used almost interchangeably). Siugat initially handled lead vocals.
+The founding lineup consisted of guitarists 小吉 Siugat and 史悲 Space, bassist 羅密欧 Romeo, and drummer 晓鸣 Xiaoming (who would serve as the band's primary drummer throughout its entire run; some audience members occasionally mistakenly believed there were multiple drummers because he also went by the nickname 施总 Shizong). Siugat initially handled lead vocals.
 
 Every show opened — and would always open — with a cover of "Just Like Honey." The sound leant more towards trash and freak-rock than proper shoegaze, but something about that roughness made the pop instincts underneath — the JAMC inheritance — come through more clearly, not less. It worked in ways that were difficult to predict in advance.
 
