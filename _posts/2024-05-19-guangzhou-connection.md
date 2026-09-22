@@ -116,7 +116,7 @@ The pattern repeats itself across the scene: someone encounters something that f
 
 ### YBS: Final Run and Dissolution
 
-By 2019, Episode 1's reputation had grown. Streaming platforms helped. People who had never heard of Guangzhou's underground scene found "The Capital of Poland Is Shanghai" and were clearly drawn to it. The song attracted a considerably larger audience than it had during the band's original run — it had become something of an anthem for a generation of southern Chinese indie listeners. The band hadn't changed. The rest of the world had simply caught up.
+By 2019, Episode 1's reputation had grown. Streaming platforms helped. People who had never heard of Guangzhou's underground scene found "The Capital of Poland Is Shanghai" and were clearly drawn to it. The song attracted a considerably larger audience than it had during the band's original run — it had become something of an anthem for a generation of southern Chinese indie listeners. 
 
 Zoey returned briefly, and YBS reunited for a small tour. The crowds were vastly larger than they had been during their original run. It felt like vindication, though for a band that had never particularly sought validation, vindication was beside the point. Nevertheless, it was probably a happy thing.
 
