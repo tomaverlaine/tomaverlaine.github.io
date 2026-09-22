@@ -60,13 +60,13 @@ In 2010, from within the Full Label circle, YBS came together. Several friends h
 
 The founding lineup consisted of guitarists 小吉 Siugat and 史悲 Space, bassist 羅密欧 Romeo, and drummer 晓鸣 Xiaoming (who would serve as the band's primary drummer throughout its entire run; some audience members occasionally mistakenly believed there were multiple drummers because he also went by the nickname 施总 Shizong). Siugat initially handled lead vocals.
 
-Every show opened — and would always open — with a cover of "Just Like Honey." The sound leant more towards trash and freak-rock than proper shoegaze, but something about that roughness made the pop instincts underneath — the JAMC inheritance — come through more clearly, not less. It worked in ways that were difficult to predict in advance.
+Every show opened — and would always open — with a cover of "Just Like Honey." The sound leant more towards trash and freak-rock than genuine shoegaze, but something about that roughness made the pop instincts underneath — the JAMC inheritance — come through more clearly, not less. It worked in ways that were difficult to predict in advance.
 
 In the summer of 2011, Zoey joined as lead vocalist, and the band found its voice. She was not, perhaps, a virtuoso in a technical sense, but she brought a warmth and directness that became inseparable from what YBS sounded like. Her lyrics moved between English, German, Mandarin, and Cantonese — sometimes within a single song — which gives you some sense of the kind of band this was.
 
-In 2012, YBS self-released their debut "album," *死 (Death)*: eleven tracks, one song, eleven different translations of the same title. *波兰首都是上海* *"The Capital of Poland Is Shanghai"* Some listeners were baffled. Others were charmed. It was a gesture of formal playfulness that nonetheless meant something. Reviews described the band as crude and amateurish. The band moved on. After all, they made music because it made them happy. Only that.
+In 2012, YBS self-released their debut "album," *死 (Death)*: eleven tracks, one song, eleven different translations of the same title. *波兰首都是上海* *"The Capital of Poland Is Shanghai"* Some listeners were baffled, others were charmed. It was a gesture of formal playfulness that nonetheless meant something. Reviews described the album as crude and amateurish. The band moved on. After all, they made music because it made them happy. Only that.
 
-They were willing to carry their equipment anywhere. A ten-minute set before being asked to leave happened as often as proper gigs at actual venues. They gradually started receiving invitations to play in other cities — Beijing, Shanghai, Chengdu. They approached these trips with a tourist's ease. In this way, isolated underground bands and rock enthusiasts across the southern coast found each other, exchanged information, and stimulated one another.
+They were willing to carry their equipment anywhere. A ten-minute set before being asked to leave happened as often as proper gigs at actual venues. They gradually started receiving invitations to play in other cities — Zhuhai, Shenzhen, well, around Guangdong. They approached these trips with a tourist's ease. In this way, isolated underground bands and rock enthusiasts across the southern coast found each other, exchanged information, and stimulated one another.
 
 In 2014, Full Label organized a relatively large-scale event that brought together 秘密行动 STOLEN from Chengdu, 鸟撞 Birdstriking from Beijing, Chinese Football from Wuhan, and The White Tulips from Xiamen. Friendships forged at this show would influence the southern scene for years.
 
@@ -78,7 +78,7 @@ Its founder, Jovi, had developed a thorough obsession with Sarah Records — the
 
 Full Label began making fanzines, inspired by this same documentary. A common sensibility — modest melodies, DIY principles, emotional directness, genuine indifference to commercial music — spread through Guangzhou, Shenzhen, Xiamen, and beyond. The phrase "C86" began circulating through the scene like a secret handshake.
 
-On the 20th anniversary of Sarah Records' dissolution, in August 2015, Boring Productions and Full Label jointly released a tribute compilation, *Our Secret World*. Boring Productions pressed the CD; Full Label handled the cassette. The tracklist included figures from across the southern scene: 车头灯 Headlights' Hover, Chinese Football's 徐波 XuBo, and others who had become essential to what was quietly becoming visible as a regional movement.
+On the 20th anniversary of Sarah Records' dissolution, in August 2015, Boring Productions and Full Label jointly released a tribute compilation, *Our Secret World*. Boring Productions pressed the CD; Full Label handled the cassette. The tracklist included figures from across the southern scene: Golden Cage's Hover, Chinese Football's 徐波 Xubo, and others who had become essential to what was quietly becoming visible as a regional movement.
 
 The Sarah Records founder, in Bristol, later sent Boring Productions a personal message of gratitude. This reportedly moved several people to tears — which feels entirely appropriate.
 
@@ -122,9 +122,9 @@ By 2019, *Episode 1*'s reputation had accumulated through streaming. People who 
 
 Then COVID-19 arrived. Venues closed. Touring stopped. Many labels went silent. Zoey was unable to return to the mainland due to border closure. Facing this pressure, in April 2020, Qiii Snacks released YBS's second EP, *第二集 (Volume 2)* — digital only, a kind of prescription written for isolation's particular despair. The band endured.
 
-In 2023, YBS emerged for a final effort: a nine-city farewell tour. At each city, they invited local guest bands. The final show was in Guangzhou. There, Romeo, the long departed original bassist, returned to the stage for one last time. At that show, they formally announced their dissolution.
+In 2023, YBS emerged for a final effort: a nine-city farewell tour. At each city, they invited local guest bands. The final show was in Guangzhou. There, Romeo, the long departed original bassist, returned to the stage. At that show, they formally announced their dissolution.
 
-Siugat ended the evening by recalling something Xiaozhao — the founder of Full Label — used to say: "What we're trying to do is make music that warms people's hearts." That is what they did. That is what they were always doing.
+Siugat ended the evening by recalling something Xiaozhao — the founder of Full Label — used to say: "What we're trying to do is make music that warms people's hearts." That is what they have done. That is what they were always doing.
 
 Their recorded output, in total, is modest: a debut album conceived as a joke, two EPs, a handful of live recordings. The music has outlasted all of that by quite some distance. "The Capital of Poland Is Shanghai" has become the unofficial anthem of an entire generation of southern Chinese indie listeners. The band never changed. The world finally caught up with them.
 
