@@ -102,8 +102,6 @@ From hardcore punk to hip-hop to emo to city pop, Qiii Snacks developed into som
 
 Simultaneously, the label's network extended across the region: Hong Kong, Taiwan, Tokyo, Singapore. They maintained extensive contact with labels elsewhere — 根茎唱片 Genjin Records and Nugget Records in Beijing, 野生唱片 Wild Records in Wuhan, Sweaty & Cramped in Hong Kong — operating less as a competitive scene than as a distributed network of people who cared about similar things.
 
-The EP circulated. Streaming platforms helped. People who had never heard of Guangzhou's underground scene found "The Capital of Poland Is Shanghai" and clearly felt something strike them. By the time YBS briefly reunited in 2019 — to considerably larger audiences than anything from their original run — the song had become something of an anthem for a generation of southern Chinese indie listeners. The band hadn't changed. The rest of the world had simply caught up.
-
 ### The Southern Resonance
 
 Around the mid-2010s, what had begun as scattered circles of likeminded people across the southern coast began to cohere into something recognisable as a scene — a multi-city network with genuine communication and mutual influence.
@@ -118,7 +116,9 @@ The pattern repeats itself across the scene: someone encounters something that f
 
 ### YBS: Final Run and Dissolution
 
-By 2019, *Episode 1*'s reputation had accumulated through streaming. People who had no connection to Guangzhou's underground heard the song and felt something land. Zoey returned briefly, and YBS reunited for a small tour. The crowds were vastly larger than anything from their original run. It felt like vindication, though for a band that had never particularly sought validation, vindication was beside the point.
+By 2019, Episode 1's reputation had grown. Streaming platforms helped. People who had never heard of Guangzhou's underground scene found "The Capital of Poland Is Shanghai" and were clearly drawn to it. The song attracted a considerably larger audience than it had during the band's original run — it had become something of an anthem for a generation of southern Chinese indie listeners. The band hadn't changed. The rest of the world had simply caught up.
+
+Zoey returned briefly, and YBS reunited for a small tour. The crowds were vastly larger than they had been during their original run. It felt like vindication, though for a band that had never particularly sought validation, vindication was beside the point. Nevertheless, it was probably a happy thing.
 
 Then COVID-19 arrived. Venues closed. Touring stopped. Many labels went silent. Zoey was unable to return to the mainland due to border closure. Facing this pressure, in April 2020, Qiii Snacks released YBS's second EP, *第二集 (Volume 2)* — digital only, a kind of prescription written for isolation's particular despair. The band endured.
 
