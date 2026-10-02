@@ -67,9 +67,9 @@ Their playing and vocals are powerful, striking, recalling 2000s emo rock — an
 
 ### 中西部情绪麻将 Midwest Emo Mahjong (Guangzhou)
 
-**New-generation emo.**
+**New-generation emo. I heard they formed while playing mahjong in Guangzhou's Midwest district. That's the story. I'm not fact-checking it.**
 
-I heard they formed while playing mahjong in Guangzhou's Midwest district. That's the story. I'm not fact-checking it. The melodies kind of float and feel disconnected at the same time, and they sing them in this flat, deadpan way, which weirdly makes it hit you even harder. I don't even know if they're into Japanese rock or not, but there's something familiar and nostalgic about it. The drummer apparently plays in some other bands.
+The melodies kind of float and feel disconnected at the same time, and they sing them in this flat, deadpan way, which weirdly makes it hit you even harder. I don't even know if they're into Japanese rock or not, but there's something familiar and nostalgic about it. The drummer apparently plays in some other bands.
 
 **Recommended tracks:** "I'm Not from the Midwest", "Always Sad"
 
@@ -95,7 +95,7 @@ Do give it a go. Just turn the volume up a notch.
 
 ## A Tentative Essay on Chinese Emo, or, Nostalgia for Sincerity and Purity
 
-In recent years, Chinese indie rock has been so thoroughly overrun by emo that people have taken to calling it "the Age of Emo". The history of Chinese emo began in the mid-2000s as an import of the overseas wave, and took shape at the intersection of several musical lineages and contexts, threaded together by a DIY network built through exchange across East Asia. Let's retrace this phenomenon from its origins, then, and work out why — why here,why now, and why emo.
+In recent years, Chinese indie rock has been so thoroughly overrun by emo that people have taken to calling it "the Age of Emo". The history of Chinese emo began in the mid-2000s as an import of the overseas wave, and took shape at the intersection of several musical lineages and contexts, threaded together by a DIY network built through exchange across East Asia. Let's retrace this phenomenon from its origins, then, and work out why — why here, why now, and why emo.
 
 #### The Soil of Chinese Emo and the Rise of Post-Rock
 
