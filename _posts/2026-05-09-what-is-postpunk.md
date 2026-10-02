@@ -41,13 +41,13 @@ Post-punk is not a fixed genre. It is, rather, a self-destructive movement that 
 
 Funk, dub, jazz, electronic music, noise, the avant-garde. Post-punk is best understood as a mongrel practice that refuses generic fixity. What is at stake is not stylistic diversity as such, but the use of diversity to resist consolidation. The point is not to fuse styles into something new, but to prevent any style from solidifying at all.
 
-In point of fact, the origins of many artists now considered to be original post-punk acts — and of the styles associated with them — predate punk entirely. David Bowie, The Stooges, Television, Pere Ubu, Frank Zappa, Talking Heads, Captain Beefheart, The Red Crayola, Roxy Music, Neu!, The Residents, Throbbing Gristle, Devo, The Modern Lovers, Can, and The Velvet Underground.
+In point of fact, the origins of many artists now considered to be original post-punk acts — and of the styles associated with them — predate punk entirely. David Bowie, The Stooges, Television, Pere Ubu, Frank Zappa, Talking Heads, Captain Beefheart, Red Krayola, Roxy Music, Neu!, The Residents, Throbbing Gristle, Devo, The Modern Lovers, Can, and The Velvet Underground.
 
 Post-punk cannot be understood as a linear development from a point of origin. It is a series of independent eruptions — each born of its own context and conditions — that break open hardened forms, dissolve them, and rebuild. An ethos of acceleration and decomposition. Post-punk recurs everywhere, without warning.
 
 ## The Post-Punk Nature of the Godfather of Chinese Rock
 
-On 9 May 1986, at a charity concert organised under the banner of the International Year of Peace, 崔健 Cui Jian performed *一无所有* (*Nothing to My Name*). Chinese rock began there.
+On 9 May 1986, at a charity concert organised under the banner of the International Year of Peace, 崔健 Cui Jian performed "一无所有 (Nothing to My Name)". Chinese rock began there.
 
 For nearly everyone present, it was a style unlike anything they had seen or heard. It was met with astonishment. Some denounced it as 牛鬼蛇神 — ox-demons and snake-spirits, monsters and freaks — and walked out. For ears shaped by revolutionary songs and pop ballads, the introspective lyrics alone were a shock. Beyond the music itself, Cui Jian stood on stage in an oversized work jacket, sleeves rolled up — conspicuously plain beside the other performers. Threadbare would not be an unfair description. In every respect, Chinese rock arrived as something foreign to its surroundings.
 
