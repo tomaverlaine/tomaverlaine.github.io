@@ -7,7 +7,7 @@ tags: [cui-jian]
 summary: "The Etymology of Post-Punk"
 excerpt: "consider what post-punk has always been: an interzone, a space where the street finds its own uses for things"
 lang: en
-Ref: cuijian
+ref: cuijian
 ---
 
 ## "This Is Not Post-Punk"

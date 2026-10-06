@@ -7,7 +7,7 @@ tags: [cui-jian]
 summary: "从后朋克一词的词源出发，将其重新定义为拒绝固化的间域方法，并以此重读崔健与中国摇滚。"
 excerpt: "请想想后朋克一向是什么：一片间域，一个街头为事物找到自己用途的空间"
 lang: zh
-Ref: cuijian
+ref: cuijian
 ---
 
 ## “这不是后朋克”
