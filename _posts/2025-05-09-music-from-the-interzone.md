@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music from the Interzone: Post-Punk and the Godfather of Chinese Rock"
-date: 2025-05-09
+date: 2026-05-09
 categories: texts
 tags: [cui-jian]
 summary: "The Etymology of Post-Punk"
@@ -13,7 +13,7 @@ ref: cuijian
 ## "This Is Not Post-Punk"
 
 Writing under the name Chinese Postpunk Anthology, one occasionally receives comments along the lines of "this is not post-punk." Quite right, of course.
-It is not post-punk, it is indie rock. It is not post-punk, it is Electronic. It is not post-punk, it is emo. It is not post-punk, it is shoegaze. It is not post-punk, it is noise rock. It is not post-punk, it is darkwave. It is not post-punk, it is no wave. And so on, and so forth.
+It is not post-punk, it is indie rock. It is not post-punk, it is electronic. It is not post-punk, it is emo. It is not post-punk, it is shoegaze. It is not post-punk, it is noise rock. It is not post-punk, it is darkwave. It is not post-punk, it is no wave. And so on, and so forth.
 
 For them, something called "post-punk style" apparently exists. What they are saying, in effect, is this: "dark, cold, jagged guitars, propulsive basslines, and literary lyrics are what make post-punk post-punk." How extraordinary. Anyone who can identify the common denominator among Cabaret Voltaire, Killing Joke, Pere Ubu, Throbbing Gristle, Swell Maps, Magazine, Devo, Ultravox, Orange Juice, Mission of Burma, Subway Sect, ESG, The Birthday Party, The Monochrome Set, The Slits, Wire, The Human League, Joy Division, Suicide, Gang of Four, Aztec Camera, Soft Cell, Cocteau Twins, This Heat, Public Image Ltd., and Bauhaus is warmly invited to do so.
 

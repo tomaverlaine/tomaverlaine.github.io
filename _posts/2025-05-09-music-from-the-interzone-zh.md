@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "来自间域的音乐：后朋克与中国摇滚教父"
-date: 2025-05-09
+date: 2026-05-09
 categories: texts
 tags: [cui-jian]
 summary: "从后朋克一词的词源出发，将其重新定义为拒绝固化的间域方法，并以此重读崔健与中国摇滚。"
