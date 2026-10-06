@@ -106,10 +106,7 @@ img { max-width: 100%; height: auto; display: block; margin: 20px 0; }
 html:lang(ja) .zine { max-width: 42em; }   /* was: 36em */
 html:lang(zh) .zine { max-width: 40em; }   /* was: 34em */
 
-
 .post-header { margin-bottom: 0; }
-
-.post-title {
 
 .post-title {
   font-family: "Source Serif 4", serif;
@@ -122,6 +119,7 @@ html:lang(zh) .zine { max-width: 40em; }   /* was: 34em */
   margin-bottom: 0;
   margin-left: -10px;
 }
+
 html:lang(zh) .post-title {
   font-family: "Songti SC", "SimSun", serif;
 }
