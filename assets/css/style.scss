@@ -110,13 +110,9 @@ html:lang(zh) .zine { max-width: 40em; }   /* was: 34em */
 .post-header { margin-bottom: 0; }
 
 .post-title {
-  font-family:
-    "Source Serif 4",
-    "Songti SC",
-    "SimSun",
-    "Hiragino Mincho ProN",
-    "Yu Mincho",
-    serif;
+
+.post-title {
+  font-family: "Source Serif 4", serif;
   font-weight: 600;
   letter-spacing: 0.04em;
   font-size: clamp(1.5rem, 7vw, 2.4em);
@@ -126,7 +122,9 @@ html:lang(zh) .zine { max-width: 40em; }   /* was: 34em */
   margin-bottom: 0;
   margin-left: -10px;
 }
-
+html:lang(zh) .post-title {
+  font-family: "Songti SC", "SimSun", serif;
+}
 
 /* 本文 */
 .zine p { padding-left: 1.1em; }
