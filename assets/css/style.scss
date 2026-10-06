@@ -111,11 +111,12 @@ html:lang(zh) .zine { max-width: 40em; }   /* was: 34em */
 
 .post-title {
   font-family:
-    "Inter",
-    "Noto Sans SC",
-    "Noto Sans JP",
-    system-ui,
-    sans-serif;
+    "Source Serif 4",
+    "Songti SC",
+    "SimSun",
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    serif;
   font-weight: 600;
   letter-spacing: 0.04em;
   font-size: clamp(1.5rem, 7vw, 2.4em);
