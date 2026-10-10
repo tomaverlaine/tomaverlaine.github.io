@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "yourboyfriendsucks! and the GuangdongConnection"
+title: "yourboyfriendsucks! and the Guangdong Connection"
 date: 2024-05-19
 categories:
   - texts 
